@@ -1,0 +1,1206 @@
+[submodule "apoc-agent"]
+	path = apoc-agent
+	url = git://anongit.freedesktop.org/git/apoc-agent
+[submodule "apoc-firefox-adapter"]
+	path = apoc-firefox-adapter
+	url = git://anongit.freedesktop.org/git/apoc-firefox-adapter
+[submodule "apoc-manager"]
+	path = apoc-manager
+	url = git://anongit.freedesktop.org/git/apoc-manager
+[submodule "apoc-profile-editor"]
+	path = apoc-profile-editor
+	url = git://anongit.freedesktop.org/git/apoc-profile-editor
+[submodule "apoc-spi"]
+	path = apoc-spi
+	url = git://anongit.freedesktop.org/git/apoc-spi
+[submodule "apoc-template-packages"]
+	path = apoc-template-packages
+	url = git://anongit.freedesktop.org/git/apoc-template-packages
+[submodule "avivo/xf86-video-avivo"]
+	path = avivo/xf86-video-avivo
+	url = git://anongit.freedesktop.org/git/avivo/xf86-video-avivo
+[submodule "cairo"]
+	path = cairo
+	url = git://anongit.freedesktop.org/git/cairo
+[submodule "cairo-5c"]
+	path = cairo-5c
+	url = git://anongit.freedesktop.org/git/cairo-5c
+[submodule "cairo-benchmarks"]
+	path = cairo-benchmarks
+	url = git://anongit.freedesktop.org/git/cairo-benchmarks
+[submodule "cairomm"]
+	path = cairomm
+	url = git://anongit.freedesktop.org/git/cairomm
+[submodule "cairo-www"]
+	path = cairo-www
+	url = git://anongit.freedesktop.org/git/cairo-www
+[submodule "ConsoleKit"]
+	path = ConsoleKit
+	url = git://anongit.freedesktop.org/git/ConsoleKit
+[submodule "dbus/dbus"]
+	path = dbus/dbus
+	url = git://anongit.freedesktop.org/git/dbus/dbus
+[submodule "dbus/dbus-doc"]
+	path = dbus/dbus-doc
+	url = git://anongit.freedesktop.org/git/dbus/dbus-doc
+[submodule "dbus/dbus-glib"]
+	path = dbus/dbus-glib
+	url = git://anongit.freedesktop.org/git/dbus/dbus-glib
+[submodule "dbus/dbus-java"]
+	path = dbus/dbus-java
+	url = git://anongit.freedesktop.org/git/dbus/dbus-java
+[submodule "dbus/dbus-mono"]
+	path = dbus/dbus-mono
+	url = git://anongit.freedesktop.org/git/dbus/dbus-mono
+[submodule "dbus/dbus-python"]
+	path = dbus/dbus-python
+	url = git://anongit.freedesktop.org/git/dbus/dbus-python
+[submodule "dbus/dbus-qt"]
+	path = dbus/dbus-qt
+	url = git://anongit.freedesktop.org/git/dbus/dbus-qt
+[submodule "dbus/dbus-qt3"]
+	path = dbus/dbus-qt3
+	url = git://anongit.freedesktop.org/git/dbus/dbus-qt3
+[submodule "dbus/dbus-test"]
+	path = dbus/dbus-test
+	url = git://anongit.freedesktop.org/git/dbus/dbus-test
+[submodule "dolt"]
+	path = dolt
+	url = git://anongit.freedesktop.org/git/dolt
+[submodule "exempi"]
+	path = exempi
+	url = git://anongit.freedesktop.org/git/exempi
+[submodule "fontconfig"]
+	path = fontconfig
+	url = git://anongit.freedesktop.org/git/fontconfig
+[submodule "freedesktop/cvsps"]
+	path = freedesktop/cvsps
+	url = git://anongit.freedesktop.org/git/freedesktop/cvsps
+[submodule "freedesktop/ssh-bleach"]
+	path = freedesktop/ssh-bleach
+	url = git://anongit.freedesktop.org/git/freedesktop/ssh-bleach
+[submodule "geoclue"]
+	path = geoclue
+	url = git://anongit.freedesktop.org/git/geoclue
+[submodule "glitz"]
+	path = glitz
+	url = git://anongit.freedesktop.org/git/glitz
+[submodule "gypsy"]
+	path = gypsy
+	url = git://anongit.freedesktop.org/git/gypsy
+[submodule "hal/hal"]
+	path = hal/hal
+	url = git://anongit.freedesktop.org/git/hal/hal
+[submodule "hal/hal-info"]
+	path = hal/hal-info
+	url = git://anongit.freedesktop.org/git/hal/hal-info
+[submodule "hal/hal-quirks-site"]
+	path = hal/hal-quirks-site
+	url = git://anongit.freedesktop.org/git/hal/hal-quirks-site
+[submodule "hal-info"]
+	path = hal-info
+	url = git://anongit.freedesktop.org/git/hal-info
+[submodule "harfbuzz"]
+	path = harfbuzz
+	url = git://anongit.freedesktop.org/git/harfbuzz
+[submodule "ldtp/a11y-test-suite"]
+	path = ldtp/a11y-test-suite
+	url = git://anongit.freedesktop.org/git/ldtp/a11y-test-suite
+[submodule "ldtp/appmap"]
+	path = ldtp/appmap
+	url = git://anongit.freedesktop.org/git/ldtp/appmap
+[submodule "ldtp/ldtp"]
+	path = ldtp/ldtp
+	url = git://anongit.freedesktop.org/git/ldtp/ldtp
+[submodule "ldtp/pyautosuite"]
+	path = ldtp/pyautosuite
+	url = git://anongit.freedesktop.org/git/ldtp/pyautosuite
+[submodule "libjpeg"]
+	path = libjpeg
+	url = git://anongit.freedesktop.org/git/libjpeg
+[submodule "liblazy"]
+	path = liblazy
+	url = git://anongit.freedesktop.org/git/liblazy
+[submodule "liboil"]
+	path = liboil
+	url = git://anongit.freedesktop.org/git/liboil
+[submodule "libopenraw"]
+	path = libopenraw
+	url = git://anongit.freedesktop.org/git/libopenraw
+[submodule "libspectre"]
+	path = libspectre
+	url = git://anongit.freedesktop.org/git/libspectre
+[submodule "libva"]
+	path = libva
+	url = git://anongit.freedesktop.org/git/libva
+[submodule "mesa/drm"]
+	path = mesa/drm
+	url = git://anongit.freedesktop.org/git/mesa/drm
+[submodule "mesa/linux-agp-compat"]
+	path = mesa/linux-agp-compat
+	url = git://anongit.freedesktop.org/git/mesa/linux-agp-compat
+[submodule "mesa/mesa"]
+	path = mesa/mesa
+	url = git://anongit.freedesktop.org/git/mesa/mesa
+[submodule "nouveau/mesa"]
+	path = nouveau/mesa
+	url = git://anongit.freedesktop.org/git/nouveau/mesa
+[submodule "nouveau/xf86-video-nouveau"]
+	path = nouveau/xf86-video-nouveau
+	url = git://anongit.freedesktop.org/git/nouveau/xf86-video-nouveau
+[submodule "ohm"]
+	path = ohm
+	url = git://anongit.freedesktop.org/git/ohm
+[submodule "packagekit"]
+	path = packagekit
+	url = git://anongit.freedesktop.org/git/packagekit
+[submodule "piglit"]
+	path = piglit
+	url = git://anongit.freedesktop.org/git/piglit
+[submodule "pixman"]
+	path = pixman
+	url = git://anongit.freedesktop.org/git/pixman
+[submodule "pm-utils"]
+	path = pm-utils
+	url = git://anongit.freedesktop.org/git/pm-utils
+[submodule "PolicyKit"]
+	path = PolicyKit
+	url = git://anongit.freedesktop.org/git/PolicyKit
+[submodule "poppler/poppler"]
+	path = poppler/poppler
+	url = git://anongit.freedesktop.org/git/poppler/poppler
+[submodule "poppler/poppler-data"]
+	path = poppler/poppler-data
+	url = git://anongit.freedesktop.org/git/poppler/poppler-data
+[submodule "poppler/test"]
+	path = poppler/test
+	url = git://anongit.freedesktop.org/git/poppler/test
+[submodule "roadster"]
+	path = roadster
+	url = git://anongit.freedesktop.org/git/roadster
+[submodule "sbox2"]
+	path = sbox2
+	url = git://anongit.freedesktop.org/git/sbox2
+[submodule "swfdec/swfdec"]
+	path = swfdec/swfdec
+	url = git://anongit.freedesktop.org/git/swfdec/swfdec
+[submodule "swfdec/swfdec-directfb"]
+	path = swfdec/swfdec-directfb
+	url = git://anongit.freedesktop.org/git/swfdec/swfdec-directfb
+[submodule "swfdec/swfdec-gnome"]
+	path = swfdec/swfdec-gnome
+	url = git://anongit.freedesktop.org/git/swfdec/swfdec-gnome
+[submodule "swfdec/swfdec-konqueror"]
+	path = swfdec/swfdec-konqueror
+	url = git://anongit.freedesktop.org/git/swfdec/swfdec-konqueror
+[submodule "swfdec/swfdec-mozilla"]
+	path = swfdec/swfdec-mozilla
+	url = git://anongit.freedesktop.org/git/swfdec/swfdec-mozilla
+[submodule "system-tools-backends"]
+	path = system-tools-backends
+	url = git://anongit.freedesktop.org/git/system-tools-backends
+[submodule "twin"]
+	path = twin
+	url = git://anongit.freedesktop.org/git/twin
+[submodule "xcb/demo"]
+	path = xcb/demo
+	url = git://anongit.freedesktop.org/git/xcb/demo
+[submodule "xcb/libXamine"]
+	path = xcb/libXamine
+	url = git://anongit.freedesktop.org/git/xcb/libXamine
+[submodule "xcb/libxcb"]
+	path = xcb/libxcb
+	url = git://anongit.freedesktop.org/git/xcb/libxcb
+[submodule "xcb/proto"]
+	path = xcb/proto
+	url = git://anongit.freedesktop.org/git/xcb/proto
+[submodule "xcb/pthread-stubs"]
+	path = xcb/pthread-stubs
+	url = git://anongit.freedesktop.org/git/xcb/pthread-stubs
+[submodule "xcb/util"]
+	path = xcb/util
+	url = git://anongit.freedesktop.org/git/xcb/util
+[submodule "xcb/xhsb"]
+	path = xcb/xhsb
+	url = git://anongit.freedesktop.org/git/xcb/xhsb
+[submodule "xorg/app/appres"]
+	path = xorg/app/appres
+	url = git://anongit.freedesktop.org/git/xorg/app/appres
+[submodule "xorg/app/bdftopcf"]
+	path = xorg/app/bdftopcf
+	url = git://anongit.freedesktop.org/git/xorg/app/bdftopcf
+[submodule "xorg/app/beforelight"]
+	path = xorg/app/beforelight
+	url = git://anongit.freedesktop.org/git/xorg/app/beforelight
+[submodule "xorg/app/bitmap"]
+	path = xorg/app/bitmap
+	url = git://anongit.freedesktop.org/git/xorg/app/bitmap
+[submodule "xorg/app/compiz"]
+	path = xorg/app/compiz
+	url = git://anongit.freedesktop.org/git/xorg/app/compiz
+[submodule "xorg/app/constype"]
+	path = xorg/app/constype
+	url = git://anongit.freedesktop.org/git/xorg/app/constype
+[submodule "xorg/app/edid-decode"]
+	path = xorg/app/edid-decode
+	url = git://anongit.freedesktop.org/git/xorg/app/edid-decode
+[submodule "xorg/app/editres"]
+	path = xorg/app/editres
+	url = git://anongit.freedesktop.org/git/xorg/app/editres
+[submodule "xorg/app/fdclock"]
+	path = xorg/app/fdclock
+	url = git://anongit.freedesktop.org/git/xorg/app/fdclock
+[submodule "xorg/app/fonttosfnt"]
+	path = xorg/app/fonttosfnt
+	url = git://anongit.freedesktop.org/git/xorg/app/fonttosfnt
+[submodule "xorg/app/fslsfonts"]
+	path = xorg/app/fslsfonts
+	url = git://anongit.freedesktop.org/git/xorg/app/fslsfonts
+[submodule "xorg/app/fstobdf"]
+	path = xorg/app/fstobdf
+	url = git://anongit.freedesktop.org/git/xorg/app/fstobdf
+[submodule "xorg/app/glxcompmgr"]
+	path = xorg/app/glxcompmgr
+	url = git://anongit.freedesktop.org/git/xorg/app/glxcompmgr
+[submodule "xorg/app/grandr"]
+	path = xorg/app/grandr
+	url = git://anongit.freedesktop.org/git/xorg/app/grandr
+[submodule "xorg/app/iceauth"]
+	path = xorg/app/iceauth
+	url = git://anongit.freedesktop.org/git/xorg/app/iceauth
+[submodule "xorg/app/ico"]
+	path = xorg/app/ico
+	url = git://anongit.freedesktop.org/git/xorg/app/ico
+[submodule "xorg/app/intel-gen4asm"]
+	path = xorg/app/intel-gen4asm
+	url = git://anongit.freedesktop.org/git/xorg/app/intel-gen4asm
+[submodule "xorg/app/lbxproxy"]
+	path = xorg/app/lbxproxy
+	url = git://anongit.freedesktop.org/git/xorg/app/lbxproxy
+[submodule "xorg/app/listres"]
+	path = xorg/app/listres
+	url = git://anongit.freedesktop.org/git/xorg/app/listres
+[submodule "xorg/app/luit"]
+	path = xorg/app/luit
+	url = git://anongit.freedesktop.org/git/xorg/app/luit
+[submodule "xorg/app/makepsres"]
+	path = xorg/app/makepsres
+	url = git://anongit.freedesktop.org/git/xorg/app/makepsres
+[submodule "xorg/app/mkcfm"]
+	path = xorg/app/mkcfm
+	url = git://anongit.freedesktop.org/git/xorg/app/mkcfm
+[submodule "xorg/app/mkcomposecache"]
+	path = xorg/app/mkcomposecache
+	url = git://anongit.freedesktop.org/git/xorg/app/mkcomposecache
+[submodule "xorg/app/mkfontdir"]
+	path = xorg/app/mkfontdir
+	url = git://anongit.freedesktop.org/git/xorg/app/mkfontdir
+[submodule "xorg/app/mkfontscale"]
+	path = xorg/app/mkfontscale
+	url = git://anongit.freedesktop.org/git/xorg/app/mkfontscale
+[submodule "xorg/app/oclock"]
+	path = xorg/app/oclock
+	url = git://anongit.freedesktop.org/git/xorg/app/oclock
+[submodule "xorg/app/pclcomp"]
+	path = xorg/app/pclcomp
+	url = git://anongit.freedesktop.org/git/xorg/app/pclcomp
+[submodule "xorg/app/proxymngr"]
+	path = xorg/app/proxymngr
+	url = git://anongit.freedesktop.org/git/xorg/app/proxymngr
+[submodule "xorg/app/rendercheck"]
+	path = xorg/app/rendercheck
+	url = git://anongit.freedesktop.org/git/xorg/app/rendercheck
+[submodule "xorg/app/rgb"]
+	path = xorg/app/rgb
+	url = git://anongit.freedesktop.org/git/xorg/app/rgb
+[submodule "xorg/app/rstart"]
+	path = xorg/app/rstart
+	url = git://anongit.freedesktop.org/git/xorg/app/rstart
+[submodule "xorg/app/scripts"]
+	path = xorg/app/scripts
+	url = git://anongit.freedesktop.org/git/xorg/app/scripts
+[submodule "xorg/app/sessreg"]
+	path = xorg/app/sessreg
+	url = git://anongit.freedesktop.org/git/xorg/app/sessreg
+[submodule "xorg/app/setxkbmap"]
+	path = xorg/app/setxkbmap
+	url = git://anongit.freedesktop.org/git/xorg/app/setxkbmap
+[submodule "xorg/app/showfont"]
+	path = xorg/app/showfont
+	url = git://anongit.freedesktop.org/git/xorg/app/showfont
+[submodule "xorg/app/smproxy"]
+	path = xorg/app/smproxy
+	url = git://anongit.freedesktop.org/git/xorg/app/smproxy
+[submodule "xorg/app/twm"]
+	path = xorg/app/twm
+	url = git://anongit.freedesktop.org/git/xorg/app/twm
+[submodule "xorg/app/viewres"]
+	path = xorg/app/viewres
+	url = git://anongit.freedesktop.org/git/xorg/app/viewres
+[submodule "xorg/app/x11perf"]
+	path = xorg/app/x11perf
+	url = git://anongit.freedesktop.org/git/xorg/app/x11perf
+[submodule "xorg/app/xauth"]
+	path = xorg/app/xauth
+	url = git://anongit.freedesktop.org/git/xorg/app/xauth
+[submodule "xorg/app/xbacklight"]
+	path = xorg/app/xbacklight
+	url = git://anongit.freedesktop.org/git/xorg/app/xbacklight
+[submodule "xorg/app/xbiff"]
+	path = xorg/app/xbiff
+	url = git://anongit.freedesktop.org/git/xorg/app/xbiff
+[submodule "xorg/app/xcalc"]
+	path = xorg/app/xcalc
+	url = git://anongit.freedesktop.org/git/xorg/app/xcalc
+[submodule "xorg/app/xclipboard"]
+	path = xorg/app/xclipboard
+	url = git://anongit.freedesktop.org/git/xorg/app/xclipboard
+[submodule "xorg/app/xclock"]
+	path = xorg/app/xclock
+	url = git://anongit.freedesktop.org/git/xorg/app/xclock
+[submodule "xorg/app/xcmsdb"]
+	path = xorg/app/xcmsdb
+	url = git://anongit.freedesktop.org/git/xorg/app/xcmsdb
+[submodule "xorg/app/xcompmgr"]
+	path = xorg/app/xcompmgr
+	url = git://anongit.freedesktop.org/git/xorg/app/xcompmgr
+[submodule "xorg/app/xconsole"]
+	path = xorg/app/xconsole
+	url = git://anongit.freedesktop.org/git/xorg/app/xconsole
+[submodule "xorg/app/xcursorgen"]
+	path = xorg/app/xcursorgen
+	url = git://anongit.freedesktop.org/git/xorg/app/xcursorgen
+[submodule "xorg/app/xdbedizzy"]
+	path = xorg/app/xdbedizzy
+	url = git://anongit.freedesktop.org/git/xorg/app/xdbedizzy
+[submodule "xorg/app/xditview"]
+	path = xorg/app/xditview
+	url = git://anongit.freedesktop.org/git/xorg/app/xditview
+[submodule "xorg/app/xdm"]
+	path = xorg/app/xdm
+	url = git://anongit.freedesktop.org/git/xorg/app/xdm
+[submodule "xorg/app/xdpyinfo"]
+	path = xorg/app/xdpyinfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xdpyinfo
+[submodule "xorg/app/xdriinfo"]
+	path = xorg/app/xdriinfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xdriinfo
+[submodule "xorg/app/xedit"]
+	path = xorg/app/xedit
+	url = git://anongit.freedesktop.org/git/xorg/app/xedit
+[submodule "xorg/app/xev"]
+	path = xorg/app/xev
+	url = git://anongit.freedesktop.org/git/xorg/app/xev
+[submodule "xorg/app/xeyes"]
+	path = xorg/app/xeyes
+	url = git://anongit.freedesktop.org/git/xorg/app/xeyes
+[submodule "xorg/app/xf86dga"]
+	path = xorg/app/xf86dga
+	url = git://anongit.freedesktop.org/git/xorg/app/xf86dga
+[submodule "xorg/app/xfd"]
+	path = xorg/app/xfd
+	url = git://anongit.freedesktop.org/git/xorg/app/xfd
+[submodule "xorg/app/xfindproxy"]
+	path = xorg/app/xfindproxy
+	url = git://anongit.freedesktop.org/git/xorg/app/xfindproxy
+[submodule "xorg/app/xfontsel"]
+	path = xorg/app/xfontsel
+	url = git://anongit.freedesktop.org/git/xorg/app/xfontsel
+[submodule "xorg/app/xfs"]
+	path = xorg/app/xfs
+	url = git://anongit.freedesktop.org/git/xorg/app/xfs
+[submodule "xorg/app/xfsinfo"]
+	path = xorg/app/xfsinfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xfsinfo
+[submodule "xorg/app/xfwp"]
+	path = xorg/app/xfwp
+	url = git://anongit.freedesktop.org/git/xorg/app/xfwp
+[submodule "xorg/app/xgamma"]
+	path = xorg/app/xgamma
+	url = git://anongit.freedesktop.org/git/xorg/app/xgamma
+[submodule "xorg/app/xgc"]
+	path = xorg/app/xgc
+	url = git://anongit.freedesktop.org/git/xorg/app/xgc
+[submodule "xorg/app/xhost"]
+	path = xorg/app/xhost
+	url = git://anongit.freedesktop.org/git/xorg/app/xhost
+[submodule "xorg/app/xinit"]
+	path = xorg/app/xinit
+	url = git://anongit.freedesktop.org/git/xorg/app/xinit
+[submodule "xorg/app/xinput"]
+	path = xorg/app/xinput
+	url = git://anongit.freedesktop.org/git/xorg/app/xinput
+[submodule "xorg/app/xkbcomp"]
+	path = xorg/app/xkbcomp
+	url = git://anongit.freedesktop.org/git/xorg/app/xkbcomp
+[submodule "xorg/app/xkbevd"]
+	path = xorg/app/xkbevd
+	url = git://anongit.freedesktop.org/git/xorg/app/xkbevd
+[submodule "xorg/app/xkbprint"]
+	path = xorg/app/xkbprint
+	url = git://anongit.freedesktop.org/git/xorg/app/xkbprint
+[submodule "xorg/app/xkbutils"]
+	path = xorg/app/xkbutils
+	url = git://anongit.freedesktop.org/git/xorg/app/xkbutils
+[submodule "xorg/app/xkill"]
+	path = xorg/app/xkill
+	url = git://anongit.freedesktop.org/git/xorg/app/xkill
+[submodule "xorg/app/xload"]
+	path = xorg/app/xload
+	url = git://anongit.freedesktop.org/git/xorg/app/xload
+[submodule "xorg/app/xlogo"]
+	path = xorg/app/xlogo
+	url = git://anongit.freedesktop.org/git/xorg/app/xlogo
+[submodule "xorg/app/xlsatoms"]
+	path = xorg/app/xlsatoms
+	url = git://anongit.freedesktop.org/git/xorg/app/xlsatoms
+[submodule "xorg/app/xlsclients"]
+	path = xorg/app/xlsclients
+	url = git://anongit.freedesktop.org/git/xorg/app/xlsclients
+[submodule "xorg/app/xlsfonts"]
+	path = xorg/app/xlsfonts
+	url = git://anongit.freedesktop.org/git/xorg/app/xlsfonts
+[submodule "xorg/app/xmag"]
+	path = xorg/app/xmag
+	url = git://anongit.freedesktop.org/git/xorg/app/xmag
+[submodule "xorg/app/xman"]
+	path = xorg/app/xman
+	url = git://anongit.freedesktop.org/git/xorg/app/xman
+[submodule "xorg/app/xmessage"]
+	path = xorg/app/xmessage
+	url = git://anongit.freedesktop.org/git/xorg/app/xmessage
+[submodule "xorg/app/xmh"]
+	path = xorg/app/xmh
+	url = git://anongit.freedesktop.org/git/xorg/app/xmh
+[submodule "xorg/app/xmodmap"]
+	path = xorg/app/xmodmap
+	url = git://anongit.freedesktop.org/git/xorg/app/xmodmap
+[submodule "xorg/app/xmore"]
+	path = xorg/app/xmore
+	url = git://anongit.freedesktop.org/git/xorg/app/xmore
+[submodule "xorg/app/xphelloworld"]
+	path = xorg/app/xphelloworld
+	url = git://anongit.freedesktop.org/git/xorg/app/xphelloworld
+[submodule "xorg/app/xplsprinters"]
+	path = xorg/app/xplsprinters
+	url = git://anongit.freedesktop.org/git/xorg/app/xplsprinters
+[submodule "xorg/app/xpr"]
+	path = xorg/app/xpr
+	url = git://anongit.freedesktop.org/git/xorg/app/xpr
+[submodule "xorg/app/xprehashprinterlist"]
+	path = xorg/app/xprehashprinterlist
+	url = git://anongit.freedesktop.org/git/xorg/app/xprehashprinterlist
+[submodule "xorg/app/xprop"]
+	path = xorg/app/xprop
+	url = git://anongit.freedesktop.org/git/xorg/app/xprop
+[submodule "xorg/app/xrandr"]
+	path = xorg/app/xrandr
+	url = git://anongit.freedesktop.org/git/xorg/app/xrandr
+[submodule "xorg/app/xrdb"]
+	path = xorg/app/xrdb
+	url = git://anongit.freedesktop.org/git/xorg/app/xrdb
+[submodule "xorg/app/xrefresh"]
+	path = xorg/app/xrefresh
+	url = git://anongit.freedesktop.org/git/xorg/app/xrefresh
+[submodule "xorg/app/xrestop"]
+	path = xorg/app/xrestop
+	url = git://anongit.freedesktop.org/git/xorg/app/xrestop
+[submodule "xorg/app/xrx"]
+	path = xorg/app/xrx
+	url = git://anongit.freedesktop.org/git/xorg/app/xrx
+[submodule "xorg/app/xset"]
+	path = xorg/app/xset
+	url = git://anongit.freedesktop.org/git/xorg/app/xset
+[submodule "xorg/app/xsetmode"]
+	path = xorg/app/xsetmode
+	url = git://anongit.freedesktop.org/git/xorg/app/xsetmode
+[submodule "xorg/app/xsetpointer"]
+	path = xorg/app/xsetpointer
+	url = git://anongit.freedesktop.org/git/xorg/app/xsetpointer
+[submodule "xorg/app/xsetroot"]
+	path = xorg/app/xsetroot
+	url = git://anongit.freedesktop.org/git/xorg/app/xsetroot
+[submodule "xorg/app/xshowdamage"]
+	path = xorg/app/xshowdamage
+	url = git://anongit.freedesktop.org/git/xorg/app/xshowdamage
+[submodule "xorg/app/xsm"]
+	path = xorg/app/xsm
+	url = git://anongit.freedesktop.org/git/xorg/app/xsm
+[submodule "xorg/app/xstdcmap"]
+	path = xorg/app/xstdcmap
+	url = git://anongit.freedesktop.org/git/xorg/app/xstdcmap
+[submodule "xorg/app/xtrap"]
+	path = xorg/app/xtrap
+	url = git://anongit.freedesktop.org/git/xorg/app/xtrap
+[submodule "xorg/app/xvidtune"]
+	path = xorg/app/xvidtune
+	url = git://anongit.freedesktop.org/git/xorg/app/xvidtune
+[submodule "xorg/app/xvinfo"]
+	path = xorg/app/xvinfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xvinfo
+[submodule "xorg/app/xwd"]
+	path = xorg/app/xwd
+	url = git://anongit.freedesktop.org/git/xorg/app/xwd
+[submodule "xorg/app/xwininfo"]
+	path = xorg/app/xwininfo
+	url = git://anongit.freedesktop.org/git/xorg/app/xwininfo
+[submodule "xorg/app/xwud"]
+	path = xorg/app/xwud
+	url = git://anongit.freedesktop.org/git/xorg/app/xwud
+[submodule "xorg/data/bitmaps"]
+	path = xorg/data/bitmaps
+	url = git://anongit.freedesktop.org/git/xorg/data/bitmaps
+[submodule "xorg/data/cursors"]
+	path = xorg/data/cursors
+	url = git://anongit.freedesktop.org/git/xorg/data/cursors
+[submodule "xorg/doc/xorg-docs"]
+	path = xorg/doc/xorg-docs
+	url = git://anongit.freedesktop.org/git/xorg/doc/xorg-docs
+[submodule "xorg/doc/xorg-sgml-doctools"]
+	path = xorg/doc/xorg-sgml-doctools
+	url = git://anongit.freedesktop.org/git/xorg/doc/xorg-sgml-doctools
+[submodule "xorg/driver/xf86-input-acecad"]
+	path = xorg/driver/xf86-input-acecad
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-acecad
+[submodule "xorg/driver/xf86-input-aiptek"]
+	path = xorg/driver/xf86-input-aiptek
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-aiptek
+[submodule "xorg/driver/xf86-input-calcomp"]
+	path = xorg/driver/xf86-input-calcomp
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-calcomp
+[submodule "xorg/driver/xf86-input-citron"]
+	path = xorg/driver/xf86-input-citron
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-citron
+[submodule "xorg/driver/xf86-input-digitaledge"]
+	path = xorg/driver/xf86-input-digitaledge
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-digitaledge
+[submodule "xorg/driver/xf86-input-dmc"]
+	path = xorg/driver/xf86-input-dmc
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-dmc
+[submodule "xorg/driver/xf86-input-dynapro"]
+	path = xorg/driver/xf86-input-dynapro
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-dynapro
+[submodule "xorg/driver/xf86-input-elo2300"]
+	path = xorg/driver/xf86-input-elo2300
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-elo2300
+[submodule "xorg/driver/xf86-input-elographics"]
+	path = xorg/driver/xf86-input-elographics
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-elographics
+[submodule "xorg/driver/xf86-input-evdev"]
+	path = xorg/driver/xf86-input-evdev
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-evdev
+[submodule "xorg/driver/xf86-input-fpit"]
+	path = xorg/driver/xf86-input-fpit
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-fpit
+[submodule "xorg/driver/xf86-input-hyperpen"]
+	path = xorg/driver/xf86-input-hyperpen
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-hyperpen
+[submodule "xorg/driver/xf86-input-jamstudio"]
+	path = xorg/driver/xf86-input-jamstudio
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-jamstudio
+[submodule "xorg/driver/xf86-input-joystick"]
+	path = xorg/driver/xf86-input-joystick
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-joystick
+[submodule "xorg/driver/xf86-input-keyboard"]
+	path = xorg/driver/xf86-input-keyboard
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-keyboard
+[submodule "xorg/driver/xf86-input-magellan"]
+	path = xorg/driver/xf86-input-magellan
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-magellan
+[submodule "xorg/driver/xf86-input-magictouch"]
+	path = xorg/driver/xf86-input-magictouch
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-magictouch
+[submodule "xorg/driver/xf86-input-microtouch"]
+	path = xorg/driver/xf86-input-microtouch
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-microtouch
+[submodule "xorg/driver/xf86-input-mouse"]
+	path = xorg/driver/xf86-input-mouse
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-mouse
+[submodule "xorg/driver/xf86-input-mutouch"]
+	path = xorg/driver/xf86-input-mutouch
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-mutouch
+[submodule "xorg/driver/xf86-input-palmax"]
+	path = xorg/driver/xf86-input-palmax
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-palmax
+[submodule "xorg/driver/xf86-input-penmount"]
+	path = xorg/driver/xf86-input-penmount
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-penmount
+[submodule "xorg/driver/xf86-input-sample"]
+	path = xorg/driver/xf86-input-sample
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-sample
+[submodule "xorg/driver/xf86-input-spaceorb"]
+	path = xorg/driver/xf86-input-spaceorb
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-spaceorb
+[submodule "xorg/driver/xf86-input-summa"]
+	path = xorg/driver/xf86-input-summa
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-summa
+[submodule "xorg/driver/xf86-input-tek4957"]
+	path = xorg/driver/xf86-input-tek4957
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-tek4957
+[submodule "xorg/driver/xf86-input-ur98"]
+	path = xorg/driver/xf86-input-ur98
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-ur98
+[submodule "xorg/driver/xf86-input-vmmouse"]
+	path = xorg/driver/xf86-input-vmmouse
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-vmmouse
+[submodule "xorg/driver/xf86-input-void"]
+	path = xorg/driver/xf86-input-void
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-void
+[submodule "xorg/driver/xf86-video-apm"]
+	path = xorg/driver/xf86-video-apm
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-apm
+[submodule "xorg/driver/xf86-video-ark"]
+	path = xorg/driver/xf86-video-ark
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-ark
+[submodule "xorg/driver/xf86-video-ast"]
+	path = xorg/driver/xf86-video-ast
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-ast
+[submodule "xorg/driver/xf86-video-ati"]
+	path = xorg/driver/xf86-video-ati
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-ati
+[submodule "xorg/driver/xf86-video-chips"]
+	path = xorg/driver/xf86-video-chips
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-chips
+[submodule "xorg/driver/xf86-video-cirrus"]
+	path = xorg/driver/xf86-video-cirrus
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-cirrus
+[submodule "xorg/driver/xf86-video-cyrix"]
+	path = xorg/driver/xf86-video-cyrix
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-cyrix
+[submodule "xorg/driver/xf86-video-dummy"]
+	path = xorg/driver/xf86-video-dummy
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-dummy
+[submodule "xorg/driver/xf86-video-fbdev"]
+	path = xorg/driver/xf86-video-fbdev
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-fbdev
+[submodule "xorg/driver/xf86-video-geode"]
+	path = xorg/driver/xf86-video-geode
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-geode
+[submodule "xorg/driver/xf86-video-glide"]
+	path = xorg/driver/xf86-video-glide
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-glide
+[submodule "xorg/driver/xf86-video-glint"]
+	path = xorg/driver/xf86-video-glint
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-glint
+[submodule "xorg/driver/xf86-video-i128"]
+	path = xorg/driver/xf86-video-i128
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-i128
+[submodule "xorg/driver/xf86-video-i740"]
+	path = xorg/driver/xf86-video-i740
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-i740
+[submodule "xorg/driver/xf86-video-impact"]
+	path = xorg/driver/xf86-video-impact
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-impact
+[submodule "xorg/driver/xf86-video-imstt"]
+	path = xorg/driver/xf86-video-imstt
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-imstt
+[submodule "xorg/driver/xf86-video-intel"]
+	path = xorg/driver/xf86-video-intel
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-intel
+[submodule "xorg/driver/xf86-video-mach64"]
+	path = xorg/driver/xf86-video-mach64
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-mach64
+[submodule "xorg/driver/xf86-video-mga"]
+	path = xorg/driver/xf86-video-mga
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-mga
+[submodule "xorg/driver/xf86-video-neomagic"]
+	path = xorg/driver/xf86-video-neomagic
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-neomagic
+[submodule "xorg/driver/xf86-video-newport"]
+	path = xorg/driver/xf86-video-newport
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-newport
+[submodule "xorg/driver/xf86-video-nsc"]
+	path = xorg/driver/xf86-video-nsc
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-nsc
+[submodule "xorg/driver/xf86-video-nv"]
+	path = xorg/driver/xf86-video-nv
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-nv
+[submodule "xorg/driver/xf86-video-r128"]
+	path = xorg/driver/xf86-video-r128
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-r128
+[submodule "xorg/driver/xf86-video-radeonhd"]
+	path = xorg/driver/xf86-video-radeonhd
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-radeonhd
+[submodule "xorg/driver/xf86-video-rendition"]
+	path = xorg/driver/xf86-video-rendition
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-rendition
+[submodule "xorg/driver/xf86-video-s3"]
+	path = xorg/driver/xf86-video-s3
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-s3
+[submodule "xorg/driver/xf86-video-s3virge"]
+	path = xorg/driver/xf86-video-s3virge
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-s3virge
+[submodule "xorg/driver/xf86-video-savage"]
+	path = xorg/driver/xf86-video-savage
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-savage
+[submodule "xorg/driver/xf86-video-siliconmotion"]
+	path = xorg/driver/xf86-video-siliconmotion
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-siliconmotion
+[submodule "xorg/driver/xf86-video-sis"]
+	path = xorg/driver/xf86-video-sis
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-sis
+[submodule "xorg/driver/xf86-video-sisusb"]
+	path = xorg/driver/xf86-video-sisusb
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-sisusb
+[submodule "xorg/driver/xf86-video-sunbw2"]
+	path = xorg/driver/xf86-video-sunbw2
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-sunbw2
+[submodule "xorg/driver/xf86-video-suncg14"]
+	path = xorg/driver/xf86-video-suncg14
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-suncg14
+[submodule "xorg/driver/xf86-video-suncg3"]
+	path = xorg/driver/xf86-video-suncg3
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-suncg3
+[submodule "xorg/driver/xf86-video-suncg6"]
+	path = xorg/driver/xf86-video-suncg6
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-suncg6
+[submodule "xorg/driver/xf86-video-sunffb"]
+	path = xorg/driver/xf86-video-sunffb
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-sunffb
+[submodule "xorg/driver/xf86-video-sunleo"]
+	path = xorg/driver/xf86-video-sunleo
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-sunleo
+[submodule "xorg/driver/xf86-video-suntcx"]
+	path = xorg/driver/xf86-video-suntcx
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-suntcx
+[submodule "xorg/driver/xf86-video-tdfx"]
+	path = xorg/driver/xf86-video-tdfx
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-tdfx
+[submodule "xorg/driver/xf86-video-tga"]
+	path = xorg/driver/xf86-video-tga
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-tga
+[submodule "xorg/driver/xf86-video-trident"]
+	path = xorg/driver/xf86-video-trident
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-trident
+[submodule "xorg/driver/xf86-video-tseng"]
+	path = xorg/driver/xf86-video-tseng
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-tseng
+[submodule "xorg/driver/xf86-video-v4l"]
+	path = xorg/driver/xf86-video-v4l
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-v4l
+[submodule "xorg/driver/xf86-video-vermilion"]
+	path = xorg/driver/xf86-video-vermilion
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-vermilion
+[submodule "xorg/driver/xf86-video-vesa"]
+	path = xorg/driver/xf86-video-vesa
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-vesa
+[submodule "xorg/driver/xf86-video-vga"]
+	path = xorg/driver/xf86-video-vga
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-vga
+[submodule "xorg/driver/xf86-video-via"]
+	path = xorg/driver/xf86-video-via
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-via
+[submodule "xorg/driver/xf86-video-vmware"]
+	path = xorg/driver/xf86-video-vmware
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-vmware
+[submodule "xorg/driver/xf86-video-voodoo"]
+	path = xorg/driver/xf86-video-voodoo
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-voodoo
+[submodule "xorg/driver/xf86-video-wsfb"]
+	path = xorg/driver/xf86-video-wsfb
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-wsfb
+[submodule "xorg/driver/xf86-video-xgi"]
+	path = xorg/driver/xf86-video-xgi
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-xgi
+[submodule "xorg/driver/xf86-video-xgixp"]
+	path = xorg/driver/xf86-video-xgixp
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-xgixp
+[submodule "xorg/driver/x-input-evdev"]
+	path = xorg/driver/x-input-evdev
+	url = git://anongit.freedesktop.org/git/xorg/driver/x-input-evdev
+[submodule "xorg/font/adobe-100dpi"]
+	path = xorg/font/adobe-100dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/adobe-100dpi
+[submodule "xorg/font/adobe-75dpi"]
+	path = xorg/font/adobe-75dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/adobe-75dpi
+[submodule "xorg/font/adobe-utopia-100dpi"]
+	path = xorg/font/adobe-utopia-100dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/adobe-utopia-100dpi
+[submodule "xorg/font/adobe-utopia-75dpi"]
+	path = xorg/font/adobe-utopia-75dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/adobe-utopia-75dpi
+[submodule "xorg/font/adobe-utopia-type1"]
+	path = xorg/font/adobe-utopia-type1
+	url = git://anongit.freedesktop.org/git/xorg/font/adobe-utopia-type1
+[submodule "xorg/font/alias"]
+	path = xorg/font/alias
+	url = git://anongit.freedesktop.org/git/xorg/font/alias
+[submodule "xorg/font/arabic-misc"]
+	path = xorg/font/arabic-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/arabic-misc
+[submodule "xorg/font/bh-100dpi"]
+	path = xorg/font/bh-100dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/bh-100dpi
+[submodule "xorg/font/bh-75dpi"]
+	path = xorg/font/bh-75dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/bh-75dpi
+[submodule "xorg/font/bh-lucidatypewriter-100dpi"]
+	path = xorg/font/bh-lucidatypewriter-100dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/bh-lucidatypewriter-100dpi
+[submodule "xorg/font/bh-lucidatypewriter-75dpi"]
+	path = xorg/font/bh-lucidatypewriter-75dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/bh-lucidatypewriter-75dpi
+[submodule "xorg/font/bh-ttf"]
+	path = xorg/font/bh-ttf
+	url = git://anongit.freedesktop.org/git/xorg/font/bh-ttf
+[submodule "xorg/font/bh-type1"]
+	path = xorg/font/bh-type1
+	url = git://anongit.freedesktop.org/git/xorg/font/bh-type1
+[submodule "xorg/font/bitstream-100dpi"]
+	path = xorg/font/bitstream-100dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/bitstream-100dpi
+[submodule "xorg/font/bitstream-75dpi"]
+	path = xorg/font/bitstream-75dpi
+	url = git://anongit.freedesktop.org/git/xorg/font/bitstream-75dpi
+[submodule "xorg/font/bitstream-speedo"]
+	path = xorg/font/bitstream-speedo
+	url = git://anongit.freedesktop.org/git/xorg/font/bitstream-speedo
+[submodule "xorg/font/bitstream-type1"]
+	path = xorg/font/bitstream-type1
+	url = git://anongit.freedesktop.org/git/xorg/font/bitstream-type1
+[submodule "xorg/font/cronyx-cyrillic"]
+	path = xorg/font/cronyx-cyrillic
+	url = git://anongit.freedesktop.org/git/xorg/font/cronyx-cyrillic
+[submodule "xorg/font/cursor-misc"]
+	path = xorg/font/cursor-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/cursor-misc
+[submodule "xorg/font/daewoo-misc"]
+	path = xorg/font/daewoo-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/daewoo-misc
+[submodule "xorg/font/dec-misc"]
+	path = xorg/font/dec-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/dec-misc
+[submodule "xorg/font/encodings"]
+	path = xorg/font/encodings
+	url = git://anongit.freedesktop.org/git/xorg/font/encodings
+[submodule "xorg/font/ibm-type1"]
+	path = xorg/font/ibm-type1
+	url = git://anongit.freedesktop.org/git/xorg/font/ibm-type1
+[submodule "xorg/font/isas-misc"]
+	path = xorg/font/isas-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/isas-misc
+[submodule "xorg/font/jis-misc"]
+	path = xorg/font/jis-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/jis-misc
+[submodule "xorg/font/micro-misc"]
+	path = xorg/font/micro-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/micro-misc
+[submodule "xorg/font/misc-cyrillic"]
+	path = xorg/font/misc-cyrillic
+	url = git://anongit.freedesktop.org/git/xorg/font/misc-cyrillic
+[submodule "xorg/font/misc-ethiopic"]
+	path = xorg/font/misc-ethiopic
+	url = git://anongit.freedesktop.org/git/xorg/font/misc-ethiopic
+[submodule "xorg/font/misc-meltho"]
+	path = xorg/font/misc-meltho
+	url = git://anongit.freedesktop.org/git/xorg/font/misc-meltho
+[submodule "xorg/font/misc-misc"]
+	path = xorg/font/misc-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/misc-misc
+[submodule "xorg/font/mutt-misc"]
+	path = xorg/font/mutt-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/mutt-misc
+[submodule "xorg/font/schumacher-misc"]
+	path = xorg/font/schumacher-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/schumacher-misc
+[submodule "xorg/font/screen-cyrillic"]
+	path = xorg/font/screen-cyrillic
+	url = git://anongit.freedesktop.org/git/xorg/font/screen-cyrillic
+[submodule "xorg/font/sony-misc"]
+	path = xorg/font/sony-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/sony-misc
+[submodule "xorg/font/sun-misc"]
+	path = xorg/font/sun-misc
+	url = git://anongit.freedesktop.org/git/xorg/font/sun-misc
+[submodule "xorg/font/util"]
+	path = xorg/font/util
+	url = git://anongit.freedesktop.org/git/xorg/font/util
+[submodule "xorg/font/winitzki-cyrillic"]
+	path = xorg/font/winitzki-cyrillic
+	url = git://anongit.freedesktop.org/git/xorg/font/winitzki-cyrillic
+[submodule "xorg/font/xfree86-type1"]
+	path = xorg/font/xfree86-type1
+	url = git://anongit.freedesktop.org/git/xorg/font/xfree86-type1
+[submodule "xorg/lib/libAppleWM"]
+	path = xorg/lib/libAppleWM
+	url = git://anongit.freedesktop.org/git/xorg/lib/libAppleWM
+[submodule "xorg/lib/libdmx"]
+	path = xorg/lib/libdmx
+	url = git://anongit.freedesktop.org/git/xorg/lib/libdmx
+[submodule "xorg/lib/libfontenc"]
+	path = xorg/lib/libfontenc
+	url = git://anongit.freedesktop.org/git/xorg/lib/libfontenc
+[submodule "xorg/lib/libFS"]
+	path = xorg/lib/libFS
+	url = git://anongit.freedesktop.org/git/xorg/lib/libFS
+[submodule "xorg/lib/libICE"]
+	path = xorg/lib/libICE
+	url = git://anongit.freedesktop.org/git/xorg/lib/libICE
+[submodule "xorg/lib/liblbxutil"]
+	path = xorg/lib/liblbxutil
+	url = git://anongit.freedesktop.org/git/xorg/lib/liblbxutil
+[submodule "xorg/lib/liboldX"]
+	path = xorg/lib/liboldX
+	url = git://anongit.freedesktop.org/git/xorg/lib/liboldX
+[submodule "xorg/lib/libpciaccess"]
+	path = xorg/lib/libpciaccess
+	url = git://anongit.freedesktop.org/git/xorg/lib/libpciaccess
+[submodule "xorg/lib/libSM"]
+	path = xorg/lib/libSM
+	url = git://anongit.freedesktop.org/git/xorg/lib/libSM
+[submodule "xorg/lib/libWindowsWM"]
+	path = xorg/lib/libWindowsWM
+	url = git://anongit.freedesktop.org/git/xorg/lib/libWindowsWM
+[submodule "xorg/lib/libX11"]
+	path = xorg/lib/libX11
+	url = git://anongit.freedesktop.org/git/xorg/lib/libX11
+[submodule "xorg/lib/libXau"]
+	path = xorg/lib/libXau
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXau
+[submodule "xorg/lib/libXaw"]
+	path = xorg/lib/libXaw
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXaw
+[submodule "xorg/lib/libXCalibrate"]
+	path = xorg/lib/libXCalibrate
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXCalibrate
+[submodule "xorg/lib/libXcomposite"]
+	path = xorg/lib/libXcomposite
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXcomposite
+[submodule "xorg/lib/libXcursor"]
+	path = xorg/lib/libXcursor
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXcursor
+[submodule "xorg/lib/libXdamage"]
+	path = xorg/lib/libXdamage
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXdamage
+[submodule "xorg/lib/libXdmcp"]
+	path = xorg/lib/libXdmcp
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXdmcp
+[submodule "xorg/lib/libXevie"]
+	path = xorg/lib/libXevie
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXevie
+[submodule "xorg/lib/libXext"]
+	path = xorg/lib/libXext
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXext
+[submodule "xorg/lib/libXfixes"]
+	path = xorg/lib/libXfixes
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXfixes
+[submodule "xorg/lib/libXfont"]
+	path = xorg/lib/libXfont
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXfont
+[submodule "xorg/lib/libXfontcache"]
+	path = xorg/lib/libXfontcache
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXfontcache
+[submodule "xorg/lib/libXft"]
+	path = xorg/lib/libXft
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXft
+[submodule "xorg/lib/libXi"]
+	path = xorg/lib/libXi
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXi
+[submodule "xorg/lib/libXinerama"]
+	path = xorg/lib/libXinerama
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXinerama
+[submodule "xorg/lib/libxkbfile"]
+	path = xorg/lib/libxkbfile
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxkbfile
+[submodule "xorg/lib/libxkbui"]
+	path = xorg/lib/libxkbui
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxkbui
+[submodule "xorg/lib/libXlg3d"]
+	path = xorg/lib/libXlg3d
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXlg3d
+[submodule "xorg/lib/libXmu"]
+	path = xorg/lib/libXmu
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXmu
+[submodule "xorg/lib/libXp"]
+	path = xorg/lib/libXp
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXp
+[submodule "xorg/lib/libXpm"]
+	path = xorg/lib/libXpm
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXpm
+[submodule "xorg/lib/libXprintAppUtil"]
+	path = xorg/lib/libXprintAppUtil
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXprintAppUtil
+[submodule "xorg/lib/libXprintUtil"]
+	path = xorg/lib/libXprintUtil
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXprintUtil
+[submodule "xorg/lib/libXrandr"]
+	path = xorg/lib/libXrandr
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXrandr
+[submodule "xorg/lib/libXrender"]
+	path = xorg/lib/libXrender
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXrender
+[submodule "xorg/lib/libXRes"]
+	path = xorg/lib/libXRes
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXRes
+[submodule "xorg/lib/libXScrnSaver"]
+	path = xorg/lib/libXScrnSaver
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXScrnSaver
+[submodule "xorg/lib/libXt"]
+	path = xorg/lib/libXt
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXt
+[submodule "xorg/lib/libxtrans"]
+	path = xorg/lib/libxtrans
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxtrans
+[submodule "xorg/lib/libXTrap"]
+	path = xorg/lib/libXTrap
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXTrap
+[submodule "xorg/lib/libXtst"]
+	path = xorg/lib/libXtst
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXtst
+[submodule "xorg/lib/libXv"]
+	path = xorg/lib/libXv
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXv
+[submodule "xorg/lib/libXvMC"]
+	path = xorg/lib/libXvMC
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXvMC
+[submodule "xorg/lib/libXxf86dga"]
+	path = xorg/lib/libXxf86dga
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXxf86dga
+[submodule "xorg/lib/libXxf86misc"]
+	path = xorg/lib/libXxf86misc
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXxf86misc
+[submodule "xorg/lib/libXxf86rush"]
+	path = xorg/lib/libXxf86rush
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXxf86rush
+[submodule "xorg/lib/libXxf86vm"]
+	path = xorg/lib/libXxf86vm
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXxf86vm
+[submodule "xorg/proto/applewmproto"]
+	path = xorg/proto/applewmproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/applewmproto
+[submodule "xorg/proto/bigreqsproto"]
+	path = xorg/proto/bigreqsproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/bigreqsproto
+[submodule "xorg/proto/calibrateproto"]
+	path = xorg/proto/calibrateproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/calibrateproto
+[submodule "xorg/proto/compositeproto"]
+	path = xorg/proto/compositeproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/compositeproto
+[submodule "xorg/proto/damageproto"]
+	path = xorg/proto/damageproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/damageproto
+[submodule "xorg/proto/dmxproto"]
+	path = xorg/proto/dmxproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/dmxproto
+[submodule "xorg/proto/dri2proto"]
+	path = xorg/proto/dri2proto
+	url = git://anongit.freedesktop.org/git/xorg/proto/dri2proto
+[submodule "xorg/proto/evieproto"]
+	path = xorg/proto/evieproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/evieproto
+[submodule "xorg/proto/fixesproto"]
+	path = xorg/proto/fixesproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/fixesproto
+[submodule "xorg/proto/fontcacheproto"]
+	path = xorg/proto/fontcacheproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/fontcacheproto
+[submodule "xorg/proto/fontsproto"]
+	path = xorg/proto/fontsproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/fontsproto
+[submodule "xorg/proto/glproto"]
+	path = xorg/proto/glproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/glproto
+[submodule "xorg/proto/inputproto"]
+	path = xorg/proto/inputproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/inputproto
+[submodule "xorg/proto/kbproto"]
+	path = xorg/proto/kbproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/kbproto
+[submodule "xorg/proto/lg3dproto"]
+	path = xorg/proto/lg3dproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/lg3dproto
+[submodule "xorg/proto/panoramixproto"]
+	path = xorg/proto/panoramixproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/panoramixproto
+[submodule "xorg/proto/pmproto"]
+	path = xorg/proto/pmproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/pmproto
+[submodule "xorg/proto/printproto"]
+	path = xorg/proto/printproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/printproto
+[submodule "xorg/proto/randrproto"]
+	path = xorg/proto/randrproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/randrproto
+[submodule "xorg/proto/recordproto"]
+	path = xorg/proto/recordproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/recordproto
+[submodule "xorg/proto/renderproto"]
+	path = xorg/proto/renderproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/renderproto
+[submodule "xorg/proto/resourceproto"]
+	path = xorg/proto/resourceproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/resourceproto
+[submodule "xorg/proto/scrnsaverproto"]
+	path = xorg/proto/scrnsaverproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/scrnsaverproto
+[submodule "xorg/proto/trapproto"]
+	path = xorg/proto/trapproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/trapproto
+[submodule "xorg/proto/videoproto"]
+	path = xorg/proto/videoproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/videoproto
+[submodule "xorg/proto/windowswmproto"]
+	path = xorg/proto/windowswmproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/windowswmproto
+[submodule "xorg/proto/x11proto"]
+	path = xorg/proto/x11proto
+	url = git://anongit.freedesktop.org/git/xorg/proto/x11proto
+[submodule "xorg/proto/xcmiscproto"]
+	path = xorg/proto/xcmiscproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xcmiscproto
+[submodule "xorg/proto/xextproto"]
+	path = xorg/proto/xextproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xextproto
+[submodule "xorg/proto/xf86bigfontproto"]
+	path = xorg/proto/xf86bigfontproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86bigfontproto
+[submodule "xorg/proto/xf86dgaproto"]
+	path = xorg/proto/xf86dgaproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86dgaproto
+[submodule "xorg/proto/xf86driproto"]
+	path = xorg/proto/xf86driproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86driproto
+[submodule "xorg/proto/xf86miscproto"]
+	path = xorg/proto/xf86miscproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86miscproto
+[submodule "xorg/proto/xf86rushproto"]
+	path = xorg/proto/xf86rushproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86rushproto
+[submodule "xorg/proto/xf86vidmodeproto"]
+	path = xorg/proto/xf86vidmodeproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xf86vidmodeproto
+[submodule "xorg/proto/xineramaproto"]
+	path = xorg/proto/xineramaproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xineramaproto
+[submodule "xorg/util/cf"]
+	path = xorg/util/cf
+	url = git://anongit.freedesktop.org/git/xorg/util/cf
+[submodule "xorg/util/gccmakedep"]
+	path = xorg/util/gccmakedep
+	url = git://anongit.freedesktop.org/git/xorg/util/gccmakedep
+[submodule "xorg/util/imake"]
+	path = xorg/util/imake
+	url = git://anongit.freedesktop.org/git/xorg/util/imake
+[submodule "xorg/util/install-check"]
+	path = xorg/util/install-check
+	url = git://anongit.freedesktop.org/git/xorg/util/install-check
+[submodule "xorg/util/lndir"]
+	path = xorg/util/lndir
+	url = git://anongit.freedesktop.org/git/xorg/util/lndir
+[submodule "xorg/util/macros"]
+	path = xorg/util/macros
+	url = git://anongit.freedesktop.org/git/xorg/util/macros
+[submodule "xorg/util/makedepend"]
+	path = xorg/util/makedepend
+	url = git://anongit.freedesktop.org/git/xorg/util/makedepend
+[submodule "xorg/util/modular"]
+	path = xorg/util/modular
+	url = git://anongit.freedesktop.org/git/xorg/util/modular
+[submodule "xorg/util/xmkmf"]
+	path = xorg/util/xmkmf
+	url = git://anongit.freedesktop.org/git/xorg/util/xmkmf
+[submodule "xorg/xserver"]
+	path = xorg/xserver
+	url = git://anongit.freedesktop.org/git/xorg/xserver
