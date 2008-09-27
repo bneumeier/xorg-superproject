@@ -1204,3 +1204,6 @@
 [submodule "xorg/xserver"]
 	path = xorg/xserver
 	url = git://anongit.freedesktop.org/git/xorg/xserver
+[submodule "xorg/xprint"]
+	path = xorg/xprint
+	url = git://anongit.freedesktop.org/git/xorg/xprint
