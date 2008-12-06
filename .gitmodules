@@ -115,9 +115,6 @@
 [submodule "ldtp/pyautosuite"]
 	path = ldtp/pyautosuite
 	url = git://anongit.freedesktop.org/git/ldtp/pyautosuite
-[submodule "libjpeg"]
-	path = libjpeg
-	url = git://anongit.freedesktop.org/git/libjpeg
 [submodule "liblazy"]
 	path = liblazy
 	url = git://anongit.freedesktop.org/git/liblazy
@@ -805,9 +802,6 @@
 [submodule "xorg/driver/xf86-video-xgixp"]
 	path = xorg/driver/xf86-video-xgixp
 	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-xgixp
-[submodule "xorg/driver/x-input-evdev"]
-	path = xorg/driver/x-input-evdev
-	url = git://anongit.freedesktop.org/git/xorg/driver/x-input-evdev
 [submodule "xorg/font/adobe-100dpi"]
 	path = xorg/font/adobe-100dpi
 	url = git://anongit.freedesktop.org/git/xorg/font/adobe-100dpi
