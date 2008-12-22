@@ -1201,3 +1201,27 @@
 [submodule "xorg/xprint"]
 	path = xorg/xprint
 	url = git://anongit.freedesktop.org/git/xorg/xprint
+[submodule "xcb/xpyb"]
+	path = xcb/xpyb
+	url = git://anongit.freedesktop.org/git/xcb/xpyb
+[submodule "xkeyboard-config"]
+	path = xkeyboard-config
+	url = git://anongit.freedesktop.org/git/xkeyboard-config
+[submodule "xorg/app/mdm"]
+	path = xorg/app/mdm
+	url = git://anongit.freedesktop.org/git/xorg/app/mdm
+[submodule "xorg/app/xscope"]
+	path = xorg/app/xscope
+	url = git://anongit.freedesktop.org/git/xorg/app/xscope
+[submodule "xorg/driver/xf86-input-synaptics"]
+	path = xorg/driver/xf86-input-synaptics
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-input-synaptics
+[submodule "xorg/driver/xf86-video-modesetting"]
+	path = xorg/driver/xf86-video-modesetting
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-modesetting
+[submodule "xorg/driver/xf86-video-p690"]
+	path = xorg/driver/xf86-video-p690
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-p690
+[submodule "xorg/proto/xproto"]
+	path = xorg/proto/xproto
+	url = git://anongit.freedesktop.org/git/xorg/proto/xproto
