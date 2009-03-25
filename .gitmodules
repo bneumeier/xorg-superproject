@@ -1138,9 +1138,6 @@
 [submodule "xorg/proto/windowswmproto"]
 	path = xorg/proto/windowswmproto
 	url = git://anongit.freedesktop.org/git/xorg/proto/windowswmproto
-[submodule "xorg/proto/x11proto"]
-	path = xorg/proto/x11proto
-	url = git://anongit.freedesktop.org/git/xorg/proto/x11proto
 [submodule "xorg/proto/xcmiscproto"]
 	path = xorg/proto/xcmiscproto
 	url = git://anongit.freedesktop.org/git/xorg/proto/xcmiscproto
