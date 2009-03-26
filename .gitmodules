@@ -31,9 +31,6 @@
 [submodule "cairomm"]
 	path = cairomm
 	url = git://anongit.freedesktop.org/git/cairomm
-[submodule "cairo-www"]
-	path = cairo-www
-	url = git://anongit.freedesktop.org/git/cairo-www
 [submodule "ConsoleKit"]
 	path = ConsoleKit
 	url = git://anongit.freedesktop.org/git/ConsoleKit
@@ -88,15 +85,6 @@
 [submodule "gypsy"]
 	path = gypsy
 	url = git://anongit.freedesktop.org/git/gypsy
-[submodule "hal/hal"]
-	path = hal/hal
-	url = git://anongit.freedesktop.org/git/hal/hal
-[submodule "hal/hal-info"]
-	path = hal/hal-info
-	url = git://anongit.freedesktop.org/git/hal/hal-info
-[submodule "hal/hal-quirks-site"]
-	path = hal/hal-quirks-site
-	url = git://anongit.freedesktop.org/git/hal/hal-quirks-site
 [submodule "hal-info"]
 	path = hal-info
 	url = git://anongit.freedesktop.org/git/hal-info
@@ -1222,3 +1210,18 @@
 [submodule "xorg/proto/xproto"]
 	path = xorg/proto/xproto
 	url = git://anongit.freedesktop.org/git/xorg/proto/xproto
+[submodule "hal"]
+	path = hal
+	url = git://anongit.freedesktop.org/git/hal
+[submodule "ccss"]
+	path = ccss
+	url = git://anongit.freedesktop.org/git/ccss
+[submodule "dbus/dbus-c++"]
+	path = dbus/dbus-c++
+	url = git://anongit.freedesktop.org/git/dbus/dbus-c++
+[submodule "libbsd"]
+	path = libbsd
+	url = git://anongit.freedesktop.org/git/libbsd
+[submodule "mesa/libwsbm"]
+	path = mesa/libwsbm
+	url = git://anongit.freedesktop.org/git/mesa/libwsbm
