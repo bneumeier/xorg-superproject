@@ -1225,3 +1225,24 @@
 [submodule "mesa/libwsbm"]
 	path = mesa/libwsbm
 	url = git://anongit.freedesktop.org/git/mesa/libwsbm
+[submodule "cairo-ocaml"]
+	path = cairo-ocaml
+	url = git://anongit.freedesktop.org/git/cairo-ocaml
+[submodule "ldtp/ldtp2"]
+	path = ldtp/ldtp2
+	url = git://anongit.freedesktop.org/git/ldtp/ldtp2
+[submodule "libdlo"]
+	path = libdlo
+	url = git://anongit.freedesktop.org/git/libdlo
+[submodule "mesa/clover"]
+	path = mesa/clover
+	url = git://anongit.freedesktop.org/git/mesa/clover
+[submodule "mesa/r600_demo"]
+	path = mesa/r600_demo
+	url = git://anongit.freedesktop.org/git/mesa/r600_demo
+[submodule "mesa/rbug-gui"]
+	path = mesa/rbug-gui
+	url = git://anongit.freedesktop.org/git/mesa/rbug-gui
+[submodule "xorg/app/intel-gpu-tools"]
+	path = xorg/app/intel-gpu-tools
+	url = git://anongit.freedesktop.org/git/xorg/app/intel-gpu-tools
