@@ -1246,3 +1246,144 @@
 [submodule "xorg/app/intel-gpu-tools"]
 	path = xorg/app/intel-gpu-tools
 	url = git://anongit.freedesktop.org/git/xorg/app/intel-gpu-tools
+[submodule "xcb/util-common-m4"]
+	path = xcb/util-common-m4
+	url = git://anongit.freedesktop.org/git/xcb/util-common-m4
+[submodule "xcb/util-image"]
+	path = xcb/util-image
+	url = git://anongit.freedesktop.org/git/xcb/util-image
+[submodule "xcb/util-keysyms"]
+	path = xcb/util-keysyms
+	url = git://anongit.freedesktop.org/git/xcb/util-keysyms
+[submodule "xcb/util-renderutil"]
+	path = xcb/util-renderutil
+	url = git://anongit.freedesktop.org/git/xcb/util-renderutil
+[submodule "xcb/util-wm"]
+	path = xcb/util-wm
+	url = git://anongit.freedesktop.org/git/xcb/util-wm
+[submodule "accountsservice"]
+	path = accountsservice
+	url = git://anongit.freedesktop.org/git/accountsservice
+[submodule "bustle"]
+	path = bustle
+	url = git://anongit.freedesktop.org/git/bustle
+[submodule "cairo-www"]
+	path = cairo-www
+	url = git://anongit.freedesktop.org/git/cairo-www
+[submodule "cups-pk-helper"]
+	path = cups-pk-helper
+	url = git://anongit.freedesktop.org/git/cups-pk-helper
+[submodule "evtest"]
+	path = evtest
+	url = git://anongit.freedesktop.org/git/evtest
+[submodule "glu3"]
+	path = glu3
+	url = git://anongit.freedesktop.org/git/glu3
+[submodule "hieroglyph"]
+	path = hieroglyph
+	url = git://anongit.freedesktop.org/git/hieroglyph
+[submodule "libbacklight"]
+	path = libbacklight
+	url = git://anongit.freedesktop.org/git/libbacklight
+[submodule "libjpeg"]
+	path = libjpeg
+	url = git://anongit.freedesktop.org/git/libjpeg
+[submodule "libqmi"]
+	path = libqmi
+	url = git://anongit.freedesktop.org/git/libqmi
+[submodule "libxklavier"]
+	path = libxklavier
+	url = git://anongit.freedesktop.org/git/libxklavier
+[submodule "media-player-info"]
+	path = media-player-info
+	url = git://anongit.freedesktop.org/git/media-player-info
+[submodule "mesa/glut"]
+	path = mesa/glut
+	url = git://anongit.freedesktop.org/git/mesa/glut
+[submodule "mesa/glw"]
+	path = mesa/glw
+	url = git://anongit.freedesktop.org/git/mesa/glw
+[submodule "mesa/vmwgfx"]
+	path = mesa/vmwgfx
+	url = git://anongit.freedesktop.org/git/mesa/vmwgfx
+[submodule "ModemManager/ModemManager"]
+	path = ModemManager/ModemManager
+	url = git://anongit.freedesktop.org/git/ModemManager/ModemManager
+[submodule "NetworkManager/NetworkManager"]
+	path = NetworkManager/NetworkManager
+	url = git://anongit.freedesktop.org/git/NetworkManager/NetworkManager
+[submodule "p11-glue/p11-kit"]
+	path = p11-glue/p11-kit
+	url = git://anongit.freedesktop.org/git/p11-glue/p11-kit
+[submodule "p11-glue/pkcs11-trust-assertions"]
+	path = p11-glue/pkcs11-trust-assertions
+	url = git://anongit.freedesktop.org/git/p11-glue/pkcs11-trust-assertions
+[submodule "papyon"]
+	path = papyon
+	url = git://anongit.freedesktop.org/git/papyon
+[submodule "pkg-config"]
+	path = pkg-config
+	url = git://anongit.freedesktop.org/git/pkg-config
+[submodule "plymouth"]
+	path = plymouth
+	url = git://anongit.freedesktop.org/git/plymouth
+[submodule "py2cairo"]
+	path = py2cairo
+	url = git://anongit.freedesktop.org/git/py2cairo
+[submodule "pycairo"]
+	path = pycairo
+	url = git://anongit.freedesktop.org/git/pycairo
+[submodule "python-geoclue"]
+	path = python-geoclue
+	url = git://anongit.freedesktop.org/git/python-geoclue
+[submodule "razor"]
+	path = razor
+	url = git://anongit.freedesktop.org/git/razor
+[submodule "shave"]
+	path = shave
+	url = git://anongit.freedesktop.org/git/shave
+[submodule "sound-theme-freedesktop"]
+	path = sound-theme-freedesktop
+	url = git://anongit.freedesktop.org/git/sound-theme-freedesktop
+[submodule "startup-notification"]
+	path = startup-notification
+	url = git://anongit.freedesktop.org/git/startup-notification
+[submodule "systemd"]
+	path = systemd
+	url = git://anongit.freedesktop.org/git/systemd
+[submodule "tango/tango-icon-library"]
+	path = tango/tango-icon-library
+	url = git://anongit.freedesktop.org/git/tango/tango-icon-library
+[submodule "tango/tango-icon-theme"]
+	path = tango/tango-icon-theme
+	url = git://anongit.freedesktop.org/git/tango/tango-icon-theme
+[submodule "udisks"]
+	path = udisks
+	url = git://anongit.freedesktop.org/git/udisks
+[submodule "upower"]
+	path = upower
+	url = git://anongit.freedesktop.org/git/upower
+[submodule "wocky"]
+	path = wocky
+	url = git://anongit.freedesktop.org/git/wocky
+[submodule "xorg/app/xoo"]
+	path = xorg/app/xoo
+	url = git://anongit.freedesktop.org/git/xorg/app/xoo
+[submodule "xorg/app/xresponse"]
+	path = xorg/app/xresponse
+	url = git://anongit.freedesktop.org/git/xorg/app/xresponse
+[submodule "xorg/driver/xf86-video-nested"]
+	path = xorg/driver/xf86-video-nested
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-nested
+[submodule "xorg/driver/xf86-video-qxl"]
+	path = xorg/driver/xf86-video-qxl
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-qxl
+[submodule "xorg/lib/libxkbcommon"]
+	path = xorg/lib/libxkbcommon
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxkbcommon
+[submodule "xorg/test/xts"]
+	path = xorg/test/xts
+	url = git://anongit.freedesktop.org/git/xorg/test/xts
+[submodule "xqproxy"]
+	path = xqproxy
+	url = git://anongit.freedesktop.org/git/xqproxy
