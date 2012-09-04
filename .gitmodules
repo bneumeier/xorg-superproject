@@ -1387,3 +1387,21 @@
 [submodule "xqproxy"]
 	path = xqproxy
 	url = git://anongit.freedesktop.org/git/xqproxy
+[submodule "mesa/glu"]
+	path = mesa/glu
+	url = git://anongit.freedesktop.org/git/mesa/glu
+[submodule "xorg/app/transset"]
+	path = xorg/app/transset
+	url = git://anongit.freedesktop.org/git/xorg/app/transset/
+[submodule "xorg/driver/xf86-video-omap"]
+	path = xorg/driver/xf86-video-omap
+	url = git://anongit.freedesktop.org/git/xorg/driver/xf86-video-omap/
+[submodule "xorg/lib/libXaw3d"]
+	path = xorg/lib/libXaw3d
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXaw3d/
+[submodule "xorg/lib/libXrandrUtils"]
+	path = xorg/lib/libXrandrUtils
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXrandrUtils/
+[submodule "xorg/lib/libxcwm"]
+	path = xorg/lib/libxcwm
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxcwm/
