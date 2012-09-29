@@ -1096,8 +1096,8 @@
 [submodule "xorg/proto/panoramixproto"]
 	path = xorg/proto/panoramixproto
 	url = git://anongit.freedesktop.org/git/xorg/proto/panoramixproto
-[submodule "xorg/proto/pmproto"]
-	path = xorg/proto/pmproto
+[submodule "xorg/proto/xproxymanagementprotocol"]
+	path = xorg/proto/xproxymanagementprotocol
 	url = git://anongit.freedesktop.org/git/xorg/proto/pmproto
 [submodule "xorg/proto/printproto"]
 	path = xorg/proto/printproto
