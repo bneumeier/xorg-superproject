@@ -532,12 +532,6 @@
 [submodule "xorg/app/xwud"]
 	path = xorg/app/xwud
 	url = git://anongit.freedesktop.org/git/xorg/app/xwud
-[submodule "xorg/data/bitmaps"]
-	path = xorg/data/bitmaps
-	url = git://anongit.freedesktop.org/git/xorg/data/bitmaps
-[submodule "xorg/data/cursors"]
-	path = xorg/data/cursors
-	url = git://anongit.freedesktop.org/git/xorg/data/cursors
 [submodule "xorg/doc/xorg-docs"]
 	path = xorg/doc/xorg-docs
 	url = git://anongit.freedesktop.org/git/xorg/doc/xorg-docs
@@ -1012,18 +1006,12 @@
 [submodule "xorg/lib/libXrender"]
 	path = xorg/lib/libXrender
 	url = git://anongit.freedesktop.org/git/xorg/lib/libXrender
-[submodule "xorg/lib/libXRes"]
-	path = xorg/lib/libXRes
-	url = git://anongit.freedesktop.org/git/xorg/lib/libXRes
 [submodule "xorg/lib/libXScrnSaver"]
 	path = xorg/lib/libXScrnSaver
 	url = git://anongit.freedesktop.org/git/xorg/lib/libXScrnSaver
 [submodule "xorg/lib/libXt"]
 	path = xorg/lib/libXt
 	url = git://anongit.freedesktop.org/git/xorg/lib/libXt
-[submodule "xorg/lib/libxtrans"]
-	path = xorg/lib/libxtrans
-	url = git://anongit.freedesktop.org/git/xorg/lib/libxtrans
 [submodule "xorg/lib/libXTrap"]
 	path = xorg/lib/libXTrap
 	url = git://anongit.freedesktop.org/git/xorg/lib/libXTrap
@@ -1153,9 +1141,6 @@
 [submodule "xorg/proto/xineramaproto"]
 	path = xorg/proto/xineramaproto
 	url = git://anongit.freedesktop.org/git/xorg/proto/xineramaproto
-[submodule "xorg/util/cf"]
-	path = xorg/util/cf
-	url = git://anongit.freedesktop.org/git/xorg/util/cf
 [submodule "xorg/util/gccmakedep"]
 	path = xorg/util/gccmakedep
 	url = git://anongit.freedesktop.org/git/xorg/util/gccmakedep
@@ -1168,9 +1153,6 @@
 [submodule "xorg/util/lndir"]
 	path = xorg/util/lndir
 	url = git://anongit.freedesktop.org/git/xorg/util/lndir
-[submodule "xorg/util/macros"]
-	path = xorg/util/macros
-	url = git://anongit.freedesktop.org/git/xorg/util/macros
 [submodule "xorg/util/makedepend"]
 	path = xorg/util/makedepend
 	url = git://anongit.freedesktop.org/git/xorg/util/makedepend
@@ -1180,9 +1162,6 @@
 [submodule "xorg/util/xmkmf"]
 	path = xorg/util/xmkmf
 	url = git://anongit.freedesktop.org/git/xorg/util/xmkmf
-[submodule "xorg/xserver"]
-	path = xorg/xserver
-	url = git://anongit.freedesktop.org/git/xorg/xserver
 [submodule "xorg/xprint"]
 	path = xorg/xprint
 	url = git://anongit.freedesktop.org/git/xorg/xprint
@@ -1405,3 +1384,24 @@
 [submodule "xorg/lib/libxcwm"]
 	path = xorg/lib/libxcwm
 	url = git://anongit.freedesktop.org/git/xorg/lib/libxcwm/
+[submodule "xorg/data/xcursor-themes"]
+	path = xorg/data/xcursor-themes
+	url = git://anongit.freedesktop.org/git/xorg/data/cursors
+[submodule "xorg/data/xbitmaps"]
+	path = xorg/data/xbitmaps
+	url = git://anongit.freedesktop.org/git/xorg/data/bitmaps
+[submodule "xorg/xorg-server"]
+	path = xorg/xorg-server
+	url = git://anongit.freedesktop.org/git/xorg/xserver
+[submodule "xorg/util/xorg-cf-files"]
+	path = xorg/util/xorg-cf-files
+	url = git://anongit.freedesktop.org/git/xorg/util/cf
+[submodule "xorg/util/util-macros"]
+	path = xorg/util/util-macros
+	url = git://anongit.freedesktop.org/git/xorg/util/macros
+[submodule "xorg/lib/libXres"]
+	path = xorg/lib/libXres
+	url = git://anongit.freedesktop.org/git/xorg/lib/libXRes
+[submodule "xorg/lib/xtrans"]
+	path = xorg/lib/xtrans
+	url = git://anongit.freedesktop.org/git/xorg/lib/libxtrans
