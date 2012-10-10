@@ -1,0 +1,9 @@
+GEM
+  specs:
+    git (1.2.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  git
