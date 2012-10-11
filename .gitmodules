@@ -148,9 +148,6 @@
 [submodule "pm-utils"]
 	path = pm-utils
 	url = git://anongit.freedesktop.org/git/pm-utils
-[submodule "PolicyKit"]
-	path = PolicyKit
-	url = git://anongit.freedesktop.org/git/PolicyKit
 [submodule "poppler/poppler"]
 	path = poppler/poppler
 	url = git://anongit.freedesktop.org/git/poppler/poppler
@@ -1195,9 +1192,6 @@
 [submodule "ccss"]
 	path = ccss
 	url = git://anongit.freedesktop.org/git/ccss
-[submodule "dbus/dbus-c++"]
-	path = dbus/dbus-c++
-	url = git://anongit.freedesktop.org/git/dbus/dbus-c++
 [submodule "libbsd"]
 	path = libbsd
 	url = git://anongit.freedesktop.org/git/libbsd
@@ -1246,9 +1240,6 @@
 [submodule "bustle"]
 	path = bustle
 	url = git://anongit.freedesktop.org/git/bustle
-[submodule "cairo-www"]
-	path = cairo-www
-	url = git://anongit.freedesktop.org/git/cairo-www
 [submodule "cups-pk-helper"]
 	path = cups-pk-helper
 	url = git://anongit.freedesktop.org/git/cups-pk-helper
@@ -1327,9 +1318,6 @@
 [submodule "startup-notification"]
 	path = startup-notification
 	url = git://anongit.freedesktop.org/git/startup-notification
-[submodule "systemd"]
-	path = systemd
-	url = git://anongit.freedesktop.org/git/systemd
 [submodule "tango/tango-icon-library"]
 	path = tango/tango-icon-library
 	url = git://anongit.freedesktop.org/git/tango/tango-icon-library
