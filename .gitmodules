@@ -1393,3 +1393,18 @@
 [submodule "xorg/lib/xtrans"]
 	path = xorg/lib/xtrans
 	url = git://anongit.freedesktop.org/git/xorg/lib/libxtrans
+[submodule "wayland/wayland"]
+	path = wayland/wayland
+	url = git://anongit.freedesktop.org/git/wayland/wayland
+[submodule "wayland/wayland-web"]
+	path = wayland/wayland-web
+	url = git://anongit.freedesktop.org/git/wayland/wayland-web
+[submodule "wayland/weston"]
+	path = wayland/weston
+	url = git://anongit.freedesktop.org/git/wayland/weston
+[submodule "xorg/driver/glamor"]
+	path = xorg/driver/glamor
+	url = git://anongit.freedesktop.org/git/xorg/driver/glamor
+[submodule "xorg/test/xorg-gtest"]
+	path = xorg/test/xorg-gtest
+	url = git://anongit.freedesktop.org/git/xorg/test/xorg-gtest
