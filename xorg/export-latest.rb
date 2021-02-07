@@ -8,8 +8,8 @@ end
 def latest_tag_matching(mod, pattern)
   mod_tags = mod.tags.select { |t| t.name =~ pattern }
   begin
-    mod_tags.sort { |a,b| 
-      mod.gcommit(a).date <=> mod.gcommit(b).date 
+    mod_tags.sort { |a,b|
+      mod.gcommit(a).date <=> mod.gcommit(b).date
     }.last
   rescue ArgumentError # sometimes Git::Commit.date bails?! try name.
     mod_tags.sort { |a,b| a.name <=> b.name }.last
