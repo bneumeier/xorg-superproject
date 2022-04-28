@@ -1,7 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    git (1.2.5)
+    git (1.11.0)
+      rchardet (~> 1.8)
+    rchardet (1.8.0)
 
 PLATFORMS
   ruby
