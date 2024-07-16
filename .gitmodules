@@ -1,0 +1,849 @@
+[submodule "fontconfig"]
+	path = fontconfig
+	url = https://gitlab.freedesktop.org/fontconfig/fontconfig.git
+[submodule "freetype"]
+	path = freetype
+	url = https://gitlab.freedesktop.org/freetype/freetype.git
+[submodule "libinput/libei"]
+	path = libinput/libei
+	url = https://gitlab.freedesktop.org/libinput/libei.git
+[submodule "libinput/libinput"]
+	path = libinput/libinput
+	url = https://gitlab.freedesktop.org/libinput/libinput.git
+[submodule "libinput/libinput-data-analysis"]
+	path = libinput/libinput-data-analysis
+	url = https://gitlab.freedesktop.org/libinput/libinput-data-analysis.git
+[submodule "libevdev/evemu"]
+	path = libevdev/evemu
+	url = https://gitlab.freedesktop.org/libevdev/evemu
+[submodule "libevdev/evtest"]
+	path = libevdev/evtest
+	url = https://gitlab.freedesktop.org/libevdev/evtest
+[submodule "libevdev/hid-tools"]
+	path = libevdev/hid-tools
+	url = https://gitlab.freedesktop.org/libevdev/hid-tools
+[submodule "libevdev/libevdev"]
+	path = libevdev/libevdev
+	url = https://gitlab.freedesktop.org/libevdev/libevdev
+[submodule "dbus"]
+	path = dbus
+	url = https://gitlab.freedesktop.org/dbus/dbus.git
+[submodule "upower"]
+	path = upower
+	url = https://gitlab.freedesktop.org/upower/upower.git
+[submodule "cairo/cairo"]
+	path = cairo/cairo
+	url = https://gitlab.freedesktop.org/cairo/cairo.git
+[submodule "cairo/cairomm"]
+	path = cairo/cairomm
+	url = https://gitlab.freedesktop.org/cairo/cairomm.git
+[submodule "mesa/drm"]
+	path = mesa/drm
+	url = https://gitlab.freedesktop.org/mesa/drm.git
+[submodule "mesa/glu"]
+	path = mesa/glu
+	url = https://gitlab.freedesktop.org/mesa/glu.git
+[submodule "mesa/glut"]
+	path = mesa/glut
+	url = https://gitlab.freedesktop.org/mesa/glut.git
+[submodule "mesa/mesa"]
+	path = mesa/mesa
+	url = https://gitlab.freedesktop.org/mesa/mesa.git
+[submodule "mesa/piglit"]
+	path = mesa/piglit
+	url = https://gitlab.freedesktop.org/mesa/piglit.git
+[submodule "virglrenderer"]
+	path = virglrenderer
+	url = https://gitlab.freedesktop.org/virgl/virglrenderer.git
+[submodule "pixman"]
+	path = pixman
+	url = https://gitlab.freedesktop.org/pixman/pixman.git
+[submodule "wayland/wayland"]
+	path = wayland/wayland
+	url = https://gitlab.freedesktop.org/wayland/wayland.git
+[submodule "wayland/wayland-protocols"]
+	path = wayland/wayland-protocols
+	url = https://gitlab.freedesktop.org/wayland/wayland-protocols.git
+[submodule "wayland/wayland-utils"]
+	path = wayland/wayland-utils
+	url = https://gitlab.freedesktop.org/wayland/wayland-utils.git
+[submodule "wayland/weston"]
+	path = wayland/weston
+	url = https://gitlab.freedesktop.org/wayland/weston.git
+[submodule "xorg/xserver"]
+	path = xorg/xserver
+	url = https://gitlab.freedesktop.org/xorg/xserver.git
+[submodule "dlg"]
+	path = dlg
+	url = https://github.com/nyorain/dlg.git
+[submodule "xorg/util/bdftopcf"]
+	path = xorg/util/bdftopcf
+	url = https://gitlab.freedesktop.org/xorg/util/bdftopcf.git
+[submodule "xorg/util/cf"]
+	path = xorg/util/cf
+	url = https://gitlab.freedesktop.org/xorg/util/cf.git
+[submodule "xorg/util/gccmakedep"]
+	path = xorg/util/gccmakedep
+	url = https://gitlab.freedesktop.org/xorg/util/gccmakedep.git
+[submodule "xorg/util/imake"]
+	path = xorg/util/imake
+	url = https://gitlab.freedesktop.org/xorg/util/imake.git
+[submodule "xorg/util/macros"]
+	path = xorg/util/macros
+	url = https://gitlab.freedesktop.org/xorg/util/macros.git
+[submodule "xorg/util/makedepend"]
+	path = xorg/util/makedepend
+	url = https://gitlab.freedesktop.org/xorg/util/makedepend.git
+[submodule "xorg/util/modular"]
+	path = xorg/util/modular
+	url = https://gitlab.freedesktop.org/xorg/util/modular.git
+[submodule "xorg/util/xcb-util-m4"]
+	path = xorg/util/xcb-util-m4
+	url = https://gitlab.freedesktop.org/xorg/util/xcb-util-m4.git
+[submodule "xorg/test/rendercheck"]
+	path = xorg/test/rendercheck
+	url = https://gitlab.freedesktop.org/xorg/test/rendercheck.git
+[submodule "xorg/test/x11perf"]
+	path = xorg/test/x11perf
+	url = https://gitlab.freedesktop.org/xorg/test/x11perf.git
+[submodule "xorg/test/xhiv"]
+	path = xorg/test/xhiv
+	url = https://gitlab.freedesktop.org/xorg/test/xhiv.git
+[submodule "xorg/test/xorg-gtest"]
+	path = xorg/test/xorg-gtest
+	url = https://gitlab.freedesktop.org/xorg/test/xorg-gtest.git
+[submodule "xorg/test/xorg-integration-tests"]
+	path = xorg/test/xorg-integration-tests
+	url = https://gitlab.freedesktop.org/xorg/test/xorg-integration-tests.git
+[submodule "xorg/test/xts"]
+	path = xorg/test/xts
+	url = https://gitlab.freedesktop.org/xorg/test/xts.git
+[submodule "xorg/test/xtsttopng"]
+	path = xorg/test/xtsttopng
+	url = https://gitlab.freedesktop.org/xorg/test/xtsttopng.git
+[submodule "xorg/proto/xcbproto"]
+	path = xorg/proto/xcbproto
+	url = https://gitlab.freedesktop.org/xorg/proto/xcbproto.git
+[submodule "xorg/proto/xorgproto"]
+	path = xorg/proto/xorgproto
+	url = https://gitlab.freedesktop.org/xorg/proto/xorgproto.git
+[submodule "xorg/doc/xorg-docs"]
+	path = xorg/doc/xorg-docs
+	url = https://gitlab.freedesktop.org/xorg/doc/xorg-docs.git
+[submodule "xorg/doc/xorg-sgml-doctools"]
+	path = xorg/doc/xorg-sgml-doctools
+	url = https://gitlab.freedesktop.org/xorg/doc/xorg-sgml-doctools.git
+[submodule "xorg/data/bitmaps"]
+	path = xorg/data/bitmaps
+	url = https://gitlab.freedesktop.org/xorg/data/bitmaps.git
+[submodule "xorg/data/cursors"]
+	path = xorg/data/cursors
+	url = https://gitlab.freedesktop.org/xorg/data/cursors.git
+[submodule "xorg/lib/libapplewm"]
+	path = xorg/lib/libapplewm
+	url = https://gitlab.freedesktop.org/xorg/lib/libapplewm.git
+[submodule "xorg/lib/libdmx"]
+	path = xorg/lib/libdmx
+	url = https://gitlab.freedesktop.org/xorg/lib/libdmx.git
+[submodule "xorg/lib/libfontenc"]
+	path = xorg/lib/libfontenc
+	url = https://gitlab.freedesktop.org/xorg/lib/libfontenc.git
+[submodule "xorg/lib/libfs"]
+	path = xorg/lib/libfs
+	url = https://gitlab.freedesktop.org/xorg/lib/libfs.git
+[submodule "xorg/lib/libice"]
+	path = xorg/lib/libice
+	url = https://gitlab.freedesktop.org/xorg/lib/libice.git
+[submodule "xorg/lib/libpciaccess"]
+	path = xorg/lib/libpciaccess
+	url = https://gitlab.freedesktop.org/xorg/lib/libpciaccess.git
+[submodule "xorg/lib/libsm"]
+	path = xorg/lib/libsm
+	url = https://gitlab.freedesktop.org/xorg/lib/libsm.git
+[submodule "xorg/lib/libx11"]
+	path = xorg/lib/libx11
+	url = https://gitlab.freedesktop.org/xorg/lib/libx11.git
+[submodule "xorg/lib/libxau"]
+	path = xorg/lib/libxau
+	url = https://gitlab.freedesktop.org/xorg/lib/libxau.git
+[submodule "xorg/lib/libxaw"]
+	path = xorg/lib/libxaw
+	url = https://gitlab.freedesktop.org/xorg/lib/libxaw.git
+[submodule "xorg/lib/libxaw3d"]
+	path = xorg/lib/libxaw3d
+	url = https://gitlab.freedesktop.org/xorg/lib/libxaw3d.git
+[submodule "xorg/lib/libxcb"]
+	path = xorg/lib/libxcb
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb.git
+[submodule "xorg/lib/libxcb-cursor"]
+	path = xorg/lib/libxcb-cursor
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-cursor.git
+[submodule "xorg/lib/libxcb-errors"]
+	path = xorg/lib/libxcb-errors
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-errors.git
+[submodule "xorg/lib/libxcb-image"]
+	path = xorg/lib/libxcb-image
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-image.git
+[submodule "xorg/lib/libxcb-keysyms"]
+	path = xorg/lib/libxcb-keysyms
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-keysyms.git
+[submodule "xorg/lib/libxcb-render-util"]
+	path = xorg/lib/libxcb-render-util
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-render-util.git
+[submodule "xorg/lib/libxcb-util"]
+	path = xorg/lib/libxcb-util
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-util.git
+[submodule "xorg/lib/libxcb-wm"]
+	path = xorg/lib/libxcb-wm
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcb-wm.git
+[submodule "xorg/lib/libxcomposite"]
+	path = xorg/lib/libxcomposite
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcomposite.git
+[submodule "xorg/lib/libxcursor"]
+	path = xorg/lib/libxcursor
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcursor.git
+[submodule "xorg/lib/libxcvt"]
+	path = xorg/lib/libxcvt
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcvt.git
+[submodule "xorg/lib/libxcwm"]
+	path = xorg/lib/libxcwm
+	url = https://gitlab.freedesktop.org/xorg/lib/libxcwm.git
+[submodule "xorg/lib/libxdamage"]
+	path = xorg/lib/libxdamage
+	url = https://gitlab.freedesktop.org/xorg/lib/libxdamage.git
+[submodule "xorg/lib/libxdmcp"]
+	path = xorg/lib/libxdmcp
+	url = https://gitlab.freedesktop.org/xorg/lib/libxdmcp.git
+[submodule "xorg/lib/libxext"]
+	path = xorg/lib/libxext
+	url = https://gitlab.freedesktop.org/xorg/lib/libxext.git
+[submodule "xorg/lib/libxfixes"]
+	path = xorg/lib/libxfixes
+	url = https://gitlab.freedesktop.org/xorg/lib/libxfixes.git
+[submodule "xorg/lib/libxfont"]
+	path = xorg/lib/libxfont
+	url = https://gitlab.freedesktop.org/xorg/lib/libxfont.git
+[submodule "xorg/lib/libxft"]
+	path = xorg/lib/libxft
+	url = https://gitlab.freedesktop.org/xorg/lib/libxft.git
+[submodule "xorg/lib/libxi"]
+	path = xorg/lib/libxi
+	url = https://gitlab.freedesktop.org/xorg/lib/libxi.git
+[submodule "xorg/lib/libxinerama"]
+	path = xorg/lib/libxinerama
+	url = https://gitlab.freedesktop.org/xorg/lib/libxinerama.git
+[submodule "xorg/lib/libxkbfile"]
+	path = xorg/lib/libxkbfile
+	url = https://gitlab.freedesktop.org/xorg/lib/libxkbfile.git
+[submodule "xorg/lib/libxmu"]
+	path = xorg/lib/libxmu
+	url = https://gitlab.freedesktop.org/xorg/lib/libxmu.git
+[submodule "xorg/lib/libxp"]
+	path = xorg/lib/libxp
+	url = https://gitlab.freedesktop.org/xorg/lib/libxp.git
+[submodule "xorg/lib/libxpm"]
+	path = xorg/lib/libxpm
+	url = https://gitlab.freedesktop.org/xorg/lib/libxpm.git
+[submodule "xorg/lib/libxpresent"]
+	path = xorg/lib/libxpresent
+	url = https://gitlab.freedesktop.org/xorg/lib/libxpresent.git
+[submodule "xorg/lib/libxrandr"]
+	path = xorg/lib/libxrandr
+	url = https://gitlab.freedesktop.org/xorg/lib/libxrandr.git
+[submodule "xorg/lib/libxrender"]
+	path = xorg/lib/libxrender
+	url = https://gitlab.freedesktop.org/xorg/lib/libxrender.git
+[submodule "xorg/lib/libxres"]
+	path = xorg/lib/libxres
+	url = https://gitlab.freedesktop.org/xorg/lib/libxres.git
+[submodule "xorg/lib/libxscrnsaver"]
+	path = xorg/lib/libxscrnsaver
+	url = https://gitlab.freedesktop.org/xorg/lib/libxscrnsaver.git
+[submodule "xorg/lib/libxshmfence"]
+	path = xorg/lib/libxshmfence
+	url = https://gitlab.freedesktop.org/xorg/lib/libxshmfence.git
+[submodule "xorg/lib/libxt"]
+	path = xorg/lib/libxt
+	url = https://gitlab.freedesktop.org/xorg/lib/libxt.git
+[submodule "xorg/lib/libxtrans"]
+	path = xorg/lib/libxtrans
+	url = https://gitlab.freedesktop.org/xorg/lib/libxtrans.git
+[submodule "xorg/lib/libxtst"]
+	path = xorg/lib/libxtst
+	url = https://gitlab.freedesktop.org/xorg/lib/libxtst.git
+[submodule "xorg/lib/libxv"]
+	path = xorg/lib/libxv
+	url = https://gitlab.freedesktop.org/xorg/lib/libxv.git
+[submodule "xorg/lib/libxvmc"]
+	path = xorg/lib/libxvmc
+	url = https://gitlab.freedesktop.org/xorg/lib/libxvmc.git
+[submodule "xorg/lib/libxxf86dga"]
+	path = xorg/lib/libxxf86dga
+	url = https://gitlab.freedesktop.org/xorg/lib/libxxf86dga.git
+[submodule "xorg/lib/libxxf86vm"]
+	path = xorg/lib/libxxf86vm
+	url = https://gitlab.freedesktop.org/xorg/lib/libxxf86vm.git
+[submodule "xorg/lib/pthread-stubs"]
+	path = xorg/lib/pthread-stubs
+	url = https://gitlab.freedesktop.org/xorg/lib/pthread-stubs.git
+[submodule "xorg/font/adobe-100dpi"]
+	path = xorg/font/adobe-100dpi
+	url = https://gitlab.freedesktop.org/xorg/font/adobe-100dpi.git
+[submodule "xorg/font/adobe-75dpi"]
+	path = xorg/font/adobe-75dpi
+	url = https://gitlab.freedesktop.org/xorg/font/adobe-75dpi.git
+[submodule "xorg/font/adobe-utopia-100dpi"]
+	path = xorg/font/adobe-utopia-100dpi
+	url = https://gitlab.freedesktop.org/xorg/font/adobe-utopia-100dpi.git
+[submodule "xorg/font/adobe-utopia-75dpi"]
+	path = xorg/font/adobe-utopia-75dpi
+	url = https://gitlab.freedesktop.org/xorg/font/adobe-utopia-75dpi.git
+[submodule "xorg/font/adobe-utopia-type1"]
+	path = xorg/font/adobe-utopia-type1
+	url = https://gitlab.freedesktop.org/xorg/font/adobe-utopia-type1.git
+[submodule "xorg/font/alias"]
+	path = xorg/font/alias
+	url = https://gitlab.freedesktop.org/xorg/font/alias.git
+[submodule "xorg/font/arabic-misc"]
+	path = xorg/font/arabic-misc
+	url = https://gitlab.freedesktop.org/xorg/font/arabic-misc.git
+[submodule "xorg/font/bh-100dpi"]
+	path = xorg/font/bh-100dpi
+	url = https://gitlab.freedesktop.org/xorg/font/bh-100dpi.git
+[submodule "xorg/font/bh-75dpi"]
+	path = xorg/font/bh-75dpi
+	url = https://gitlab.freedesktop.org/xorg/font/bh-75dpi.git
+[submodule "xorg/font/bh-lucidatypewriter-100dpi"]
+	path = xorg/font/bh-lucidatypewriter-100dpi
+	url = https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-100dpi.git
+[submodule "xorg/font/bh-lucidatypewriter-75dpi"]
+	path = xorg/font/bh-lucidatypewriter-75dpi
+	url = https://gitlab.freedesktop.org/xorg/font/bh-lucidatypewriter-75dpi.git
+[submodule "xorg/font/bh-ttf"]
+	path = xorg/font/bh-ttf
+	url = https://gitlab.freedesktop.org/xorg/font/bh-ttf.git
+[submodule "xorg/font/bh-type1"]
+	path = xorg/font/bh-type1
+	url = https://gitlab.freedesktop.org/xorg/font/bh-type1.git
+[submodule "xorg/font/bitstream-100dpi"]
+	path = xorg/font/bitstream-100dpi
+	url = https://gitlab.freedesktop.org/xorg/font/bitstream-100dpi.git
+[submodule "xorg/font/bitstream-75dpi"]
+	path = xorg/font/bitstream-75dpi
+	url = https://gitlab.freedesktop.org/xorg/font/bitstream-75dpi.git
+[submodule "xorg/font/bitstream-type1"]
+	path = xorg/font/bitstream-type1
+	url = https://gitlab.freedesktop.org/xorg/font/bitstream-type1.git
+[submodule "xorg/font/cronyx-cyrillic"]
+	path = xorg/font/cronyx-cyrillic
+	url = https://gitlab.freedesktop.org/xorg/font/cronyx-cyrillic.git
+[submodule "xorg/font/cursor-misc"]
+	path = xorg/font/cursor-misc
+	url = https://gitlab.freedesktop.org/xorg/font/cursor-misc.git
+[submodule "xorg/font/daewoo-misc"]
+	path = xorg/font/daewoo-misc
+	url = https://gitlab.freedesktop.org/xorg/font/daewoo-misc.git
+[submodule "xorg/font/dec-misc"]
+	path = xorg/font/dec-misc
+	url = https://gitlab.freedesktop.org/xorg/font/dec-misc.git
+[submodule "xorg/font/encodings"]
+	path = xorg/font/encodings
+	url = https://gitlab.freedesktop.org/xorg/font/encodings.git
+[submodule "xorg/font/ibm-type1"]
+	path = xorg/font/ibm-type1
+	url = https://gitlab.freedesktop.org/xorg/font/ibm-type1.git
+[submodule "xorg/font/isas-misc"]
+	path = xorg/font/isas-misc
+	url = https://gitlab.freedesktop.org/xorg/font/isas-misc.git
+[submodule "xorg/font/jis-misc"]
+	path = xorg/font/jis-misc
+	url = https://gitlab.freedesktop.org/xorg/font/jis-misc.git
+[submodule "xorg/font/micro-misc"]
+	path = xorg/font/micro-misc
+	url = https://gitlab.freedesktop.org/xorg/font/micro-misc.git
+[submodule "xorg/font/misc-cyrillic"]
+	path = xorg/font/misc-cyrillic
+	url = https://gitlab.freedesktop.org/xorg/font/misc-cyrillic.git
+[submodule "xorg/font/misc-ethiopic"]
+	path = xorg/font/misc-ethiopic
+	url = https://gitlab.freedesktop.org/xorg/font/misc-ethiopic.git
+[submodule "xorg/font/misc-meltho"]
+	path = xorg/font/misc-meltho
+	url = https://gitlab.freedesktop.org/xorg/font/misc-meltho.git
+[submodule "xorg/font/misc-misc"]
+	path = xorg/font/misc-misc
+	url = https://gitlab.freedesktop.org/xorg/font/misc-misc.git
+[submodule "xorg/font/mutt-misc"]
+	path = xorg/font/mutt-misc
+	url = https://gitlab.freedesktop.org/xorg/font/mutt-misc.git
+[submodule "xorg/font/schumacher-misc"]
+	path = xorg/font/schumacher-misc
+	url = https://gitlab.freedesktop.org/xorg/font/schumacher-misc.git
+[submodule "xorg/font/screen-cyrillic"]
+	path = xorg/font/screen-cyrillic
+	url = https://gitlab.freedesktop.org/xorg/font/screen-cyrillic.git
+[submodule "xorg/font/sony-misc"]
+	path = xorg/font/sony-misc
+	url = https://gitlab.freedesktop.org/xorg/font/sony-misc.git
+[submodule "xorg/font/sun-misc"]
+	path = xorg/font/sun-misc
+	url = https://gitlab.freedesktop.org/xorg/font/sun-misc.git
+[submodule "xorg/font/util"]
+	path = xorg/font/util
+	url = https://gitlab.freedesktop.org/xorg/font/util.git
+[submodule "xorg/font/winitzki-cyrillic"]
+	path = xorg/font/winitzki-cyrillic
+	url = https://gitlab.freedesktop.org/xorg/font/winitzki-cyrillic.git
+[submodule "xorg/font/xfree86-type1"]
+	path = xorg/font/xfree86-type1
+	url = https://gitlab.freedesktop.org/xorg/font/xfree86-type1.git
+[submodule "xorg/driver/xf86-input-elographics"]
+	path = xorg/driver/xf86-input-elographics
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-elographics.git
+[submodule "xorg/driver/xf86-input-evdev"]
+	path = xorg/driver/xf86-input-evdev
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-evdev.git
+[submodule "xorg/driver/xf86-input-joystick"]
+	path = xorg/driver/xf86-input-joystick
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-joystick.git
+[submodule "xorg/driver/xf86-input-keyboard"]
+	path = xorg/driver/xf86-input-keyboard
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-keyboard.git
+[submodule "xorg/driver/xf86-input-libinput"]
+	path = xorg/driver/xf86-input-libinput
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-libinput.git
+[submodule "xorg/driver/xf86-input-mouse"]
+	path = xorg/driver/xf86-input-mouse
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-mouse.git
+[submodule "xorg/driver/xf86-input-synaptics"]
+	path = xorg/driver/xf86-input-synaptics
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-synaptics.git
+[submodule "xorg/driver/xf86-input-vmmouse"]
+	path = xorg/driver/xf86-input-vmmouse
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-vmmouse.git
+[submodule "xorg/driver/xf86-input-void"]
+	path = xorg/driver/xf86-input-void
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-input-void.git
+[submodule "xorg/driver/xf86-video-amdgpu"]
+	path = xorg/driver/xf86-video-amdgpu
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-amdgpu.git
+[submodule "xorg/driver/xf86-video-apm"]
+	path = xorg/driver/xf86-video-apm
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-apm.git
+[submodule "xorg/driver/xf86-video-ark"]
+	path = xorg/driver/xf86-video-ark
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-ark.git
+[submodule "xorg/driver/xf86-video-armsoc"]
+	path = xorg/driver/xf86-video-armsoc
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-armsoc.git
+[submodule "xorg/driver/xf86-video-ast"]
+	path = xorg/driver/xf86-video-ast
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-ast.git
+[submodule "xorg/driver/xf86-video-ati"]
+	path = xorg/driver/xf86-video-ati
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-ati.git
+[submodule "xorg/driver/xf86-video-chips"]
+	path = xorg/driver/xf86-video-chips
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-chips.git
+[submodule "xorg/driver/xf86-video-cirrus"]
+	path = xorg/driver/xf86-video-cirrus
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-cirrus.git
+[submodule "xorg/driver/xf86-video-dummy"]
+	path = xorg/driver/xf86-video-dummy
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-dummy.git
+[submodule "xorg/driver/xf86-video-fbdev"]
+	path = xorg/driver/xf86-video-fbdev
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-fbdev.git
+[submodule "xorg/driver/xf86-video-freedreno"]
+	path = xorg/driver/xf86-video-freedreno
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-freedreno.git
+[submodule "xorg/driver/xf86-video-geode"]
+	path = xorg/driver/xf86-video-geode
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-geode.git
+[submodule "xorg/driver/xf86-video-glint"]
+	path = xorg/driver/xf86-video-glint
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-glint.git
+[submodule "xorg/driver/xf86-video-i128"]
+	path = xorg/driver/xf86-video-i128
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-i128.git
+[submodule "xorg/driver/xf86-video-i740"]
+	path = xorg/driver/xf86-video-i740
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-i740.git
+[submodule "xorg/driver/xf86-video-impact"]
+	path = xorg/driver/xf86-video-impact
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-impact.git
+[submodule "xorg/driver/xf86-video-intel"]
+	path = xorg/driver/xf86-video-intel
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-intel.git
+[submodule "xorg/driver/xf86-video-mach64"]
+	path = xorg/driver/xf86-video-mach64
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-mach64.git
+[submodule "xorg/driver/xf86-video-mga"]
+	path = xorg/driver/xf86-video-mga
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-mga.git
+[submodule "xorg/driver/xf86-video-neomagic"]
+	path = xorg/driver/xf86-video-neomagic
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-neomagic.git
+[submodule "xorg/driver/xf86-video-nested"]
+	path = xorg/driver/xf86-video-nested
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-nested.git
+[submodule "xorg/driver/xf86-video-newport"]
+	path = xorg/driver/xf86-video-newport
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-newport.git
+[submodule "xorg/driver/xf86-video-nouveau"]
+	path = xorg/driver/xf86-video-nouveau
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-nouveau.git
+[submodule "xorg/driver/xf86-video-nv"]
+	path = xorg/driver/xf86-video-nv
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-nv.git
+[submodule "xorg/driver/xf86-video-omap"]
+	path = xorg/driver/xf86-video-omap
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-omap.git
+[submodule "xorg/driver/xf86-video-opentegra"]
+	path = xorg/driver/xf86-video-opentegra
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-opentegra.git
+[submodule "xorg/driver/xf86-video-qxl"]
+	path = xorg/driver/xf86-video-qxl
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-qxl.git
+[submodule "xorg/driver/xf86-video-r128"]
+	path = xorg/driver/xf86-video-r128
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-r128.git
+[submodule "xorg/driver/xf86-video-rendition"]
+	path = xorg/driver/xf86-video-rendition
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-rendition.git
+[submodule "xorg/driver/xf86-video-s3"]
+	path = xorg/driver/xf86-video-s3
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-s3.git
+[submodule "xorg/driver/xf86-video-s3virge"]
+	path = xorg/driver/xf86-video-s3virge
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-s3virge.git
+[submodule "xorg/driver/xf86-video-savage"]
+	path = xorg/driver/xf86-video-savage
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-savage.git
+[submodule "xorg/driver/xf86-video-siliconmotion"]
+	path = xorg/driver/xf86-video-siliconmotion
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-siliconmotion.git
+[submodule "xorg/driver/xf86-video-sis"]
+	path = xorg/driver/xf86-video-sis
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-sis.git
+[submodule "xorg/driver/xf86-video-sisusb"]
+	path = xorg/driver/xf86-video-sisusb
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-sisusb.git
+[submodule "xorg/driver/xf86-video-suncg14"]
+	path = xorg/driver/xf86-video-suncg14
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-suncg14.git
+[submodule "xorg/driver/xf86-video-suncg3"]
+	path = xorg/driver/xf86-video-suncg3
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-suncg3.git
+[submodule "xorg/driver/xf86-video-suncg6"]
+	path = xorg/driver/xf86-video-suncg6
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-suncg6.git
+[submodule "xorg/driver/xf86-video-sunffb"]
+	path = xorg/driver/xf86-video-sunffb
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-sunffb.git
+[submodule "xorg/driver/xf86-video-sunleo"]
+	path = xorg/driver/xf86-video-sunleo
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-sunleo.git
+[submodule "xorg/driver/xf86-video-suntcx"]
+	path = xorg/driver/xf86-video-suntcx
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-suntcx.git
+[submodule "xorg/driver/xf86-video-tdfx"]
+	path = xorg/driver/xf86-video-tdfx
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-tdfx.git
+[submodule "xorg/driver/xf86-video-tga"]
+	path = xorg/driver/xf86-video-tga
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-tga.git
+[submodule "xorg/driver/xf86-video-trident"]
+	path = xorg/driver/xf86-video-trident
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-trident.git
+[submodule "xorg/driver/xf86-video-tseng"]
+	path = xorg/driver/xf86-video-tseng
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-tseng.git
+[submodule "xorg/driver/xf86-video-v4l"]
+	path = xorg/driver/xf86-video-v4l
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-v4l.git
+[submodule "xorg/driver/xf86-video-vbox"]
+	path = xorg/driver/xf86-video-vbox
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-vbox.git
+[submodule "xorg/driver/xf86-video-vesa"]
+	path = xorg/driver/xf86-video-vesa
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-vesa.git
+[submodule "xorg/driver/xf86-video-vmware"]
+	path = xorg/driver/xf86-video-vmware
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-vmware.git
+[submodule "xorg/driver/xf86-video-voodoo"]
+	path = xorg/driver/xf86-video-voodoo
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-voodoo.git
+[submodule "xorg/driver/xf86-video-wsfb"]
+	path = xorg/driver/xf86-video-wsfb
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-wsfb.git
+[submodule "xorg/driver/xf86-video-xgi"]
+	path = xorg/driver/xf86-video-xgi
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-xgi.git
+[submodule "xorg/driver/xf86-video-xgixp"]
+	path = xorg/driver/xf86-video-xgixp
+	url = https://gitlab.freedesktop.org/xorg/driver/xf86-video-xgixp.git
+[submodule "xorg/app/appres"]
+	path = xorg/app/appres
+	url = https://gitlab.freedesktop.org/xorg/app/appres.git
+[submodule "xorg/app/beforelight"]
+	path = xorg/app/beforelight
+	url = https://gitlab.freedesktop.org/xorg/app/beforelight.git
+[submodule "xorg/app/bitmap"]
+	path = xorg/app/bitmap
+	url = https://gitlab.freedesktop.org/xorg/app/bitmap.git
+[submodule "xorg/app/constype"]
+	path = xorg/app/constype
+	url = https://gitlab.freedesktop.org/xorg/app/constype.git
+[submodule "xorg/app/editres"]
+	path = xorg/app/editres
+	url = https://gitlab.freedesktop.org/xorg/app/editres.git
+[submodule "xorg/app/fonttosfnt"]
+	path = xorg/app/fonttosfnt
+	url = https://gitlab.freedesktop.org/xorg/app/fonttosfnt.git
+[submodule "xorg/app/fslsfonts"]
+	path = xorg/app/fslsfonts
+	url = https://gitlab.freedesktop.org/xorg/app/fslsfonts.git
+[submodule "xorg/app/fstobdf"]
+	path = xorg/app/fstobdf
+	url = https://gitlab.freedesktop.org/xorg/app/fstobdf.git
+[submodule "xorg/app/iceauth"]
+	path = xorg/app/iceauth
+	url = https://gitlab.freedesktop.org/xorg/app/iceauth.git
+[submodule "xorg/app/ico"]
+	path = xorg/app/ico
+	url = https://gitlab.freedesktop.org/xorg/app/ico.git
+[submodule "xorg/app/listres"]
+	path = xorg/app/listres
+	url = https://gitlab.freedesktop.org/xorg/app/listres.git
+[submodule "xorg/app/mkcomposecache"]
+	path = xorg/app/mkcomposecache
+	url = https://gitlab.freedesktop.org/xorg/app/mkcomposecache.git
+[submodule "xorg/app/mkfontscale"]
+	path = xorg/app/mkfontscale
+	url = https://gitlab.freedesktop.org/xorg/app/mkfontscale.git
+[submodule "xorg/app/oclock"]
+	path = xorg/app/oclock
+	url = https://gitlab.freedesktop.org/xorg/app/oclock.git
+[submodule "xorg/app/quartz-wm"]
+	path = xorg/app/quartz-wm
+	url = https://gitlab.freedesktop.org/xorg/app/quartz-wm.git
+[submodule "xorg/app/rgb"]
+	path = xorg/app/rgb
+	url = https://gitlab.freedesktop.org/xorg/app/rgb.git
+[submodule "xorg/app/rstart"]
+	path = xorg/app/rstart
+	url = https://gitlab.freedesktop.org/xorg/app/rstart.git
+[submodule "xorg/app/scripts"]
+	path = xorg/app/scripts
+	url = https://gitlab.freedesktop.org/xorg/app/scripts.git
+[submodule "xorg/app/sessreg"]
+	path = xorg/app/sessreg
+	url = https://gitlab.freedesktop.org/xorg/app/sessreg.git
+[submodule "xorg/app/setxkbmap"]
+	path = xorg/app/setxkbmap
+	url = https://gitlab.freedesktop.org/xorg/app/setxkbmap.git
+[submodule "xorg/app/showfont"]
+	path = xorg/app/showfont
+	url = https://gitlab.freedesktop.org/xorg/app/showfont.git
+[submodule "xorg/app/smproxy"]
+	path = xorg/app/smproxy
+	url = https://gitlab.freedesktop.org/xorg/app/smproxy.git
+[submodule "xorg/app/transset"]
+	path = xorg/app/transset
+	url = https://gitlab.freedesktop.org/xorg/app/transset.git
+[submodule "xorg/app/twm"]
+	path = xorg/app/twm
+	url = https://gitlab.freedesktop.org/xorg/app/twm.git
+[submodule "xorg/app/viewres"]
+	path = xorg/app/viewres
+	url = https://gitlab.freedesktop.org/xorg/app/viewres.git
+[submodule "xorg/app/xauth"]
+	path = xorg/app/xauth
+	url = https://gitlab.freedesktop.org/xorg/app/xauth.git
+[submodule "xorg/app/xbacklight"]
+	path = xorg/app/xbacklight
+	url = https://gitlab.freedesktop.org/xorg/app/xbacklight.git
+[submodule "xorg/app/xbiff"]
+	path = xorg/app/xbiff
+	url = https://gitlab.freedesktop.org/xorg/app/xbiff.git
+[submodule "xorg/app/xcalc"]
+	path = xorg/app/xcalc
+	url = https://gitlab.freedesktop.org/xorg/app/xcalc.git
+[submodule "xorg/app/xcb-demo"]
+	path = xorg/app/xcb-demo
+	url = https://gitlab.freedesktop.org/xorg/app/xcb-demo.git
+[submodule "xorg/app/xclipboard"]
+	path = xorg/app/xclipboard
+	url = https://gitlab.freedesktop.org/xorg/app/xclipboard.git
+[submodule "xorg/app/xclock"]
+	path = xorg/app/xclock
+	url = https://gitlab.freedesktop.org/xorg/app/xclock.git
+[submodule "xorg/app/xcmsdb"]
+	path = xorg/app/xcmsdb
+	url = https://gitlab.freedesktop.org/xorg/app/xcmsdb.git
+[submodule "xorg/app/xcompmgr"]
+	path = xorg/app/xcompmgr
+	url = https://gitlab.freedesktop.org/xorg/app/xcompmgr.git
+[submodule "xorg/app/xconsole"]
+	path = xorg/app/xconsole
+	url = https://gitlab.freedesktop.org/xorg/app/xconsole.git
+[submodule "xorg/app/xcursorgen"]
+	path = xorg/app/xcursorgen
+	url = https://gitlab.freedesktop.org/xorg/app/xcursorgen.git
+[submodule "xorg/app/xditview"]
+	path = xorg/app/xditview
+	url = https://gitlab.freedesktop.org/xorg/app/xditview.git
+[submodule "xorg/app/xdm"]
+	path = xorg/app/xdm
+	url = https://gitlab.freedesktop.org/xorg/app/xdm.git
+[submodule "xorg/app/xdpyinfo"]
+	path = xorg/app/xdpyinfo
+	url = https://gitlab.freedesktop.org/xorg/app/xdpyinfo.git
+[submodule "xorg/app/xdriinfo"]
+	path = xorg/app/xdriinfo
+	url = https://gitlab.freedesktop.org/xorg/app/xdriinfo.git
+[submodule "xorg/app/xedit"]
+	path = xorg/app/xedit
+	url = https://gitlab.freedesktop.org/xorg/app/xedit.git
+[submodule "xorg/app/xev"]
+	path = xorg/app/xev
+	url = https://gitlab.freedesktop.org/xorg/app/xev.git
+[submodule "xorg/app/xeyes"]
+	path = xorg/app/xeyes
+	url = https://gitlab.freedesktop.org/xorg/app/xeyes.git
+[submodule "xorg/app/xf86dga"]
+	path = xorg/app/xf86dga
+	url = https://gitlab.freedesktop.org/xorg/app/xf86dga.git
+[submodule "xorg/app/xfd"]
+	path = xorg/app/xfd
+	url = https://gitlab.freedesktop.org/xorg/app/xfd.git
+[submodule "xorg/app/xfindproxy"]
+	path = xorg/app/xfindproxy
+	url = https://gitlab.freedesktop.org/xorg/app/xfindproxy.git
+[submodule "xorg/app/xfontsel"]
+	path = xorg/app/xfontsel
+	url = https://gitlab.freedesktop.org/xorg/app/xfontsel.git
+[submodule "xorg/app/xfs"]
+	path = xorg/app/xfs
+	url = https://gitlab.freedesktop.org/xorg/app/xfs.git
+[submodule "xorg/app/xfsinfo"]
+	path = xorg/app/xfsinfo
+	url = https://gitlab.freedesktop.org/xorg/app/xfsinfo.git
+[submodule "xorg/app/xfwp"]
+	path = xorg/app/xfwp
+	url = https://gitlab.freedesktop.org/xorg/app/xfwp.git
+[submodule "xorg/app/xgamma"]
+	path = xorg/app/xgamma
+	url = https://gitlab.freedesktop.org/xorg/app/xgamma.git
+[submodule "xorg/app/xgc"]
+	path = xorg/app/xgc
+	url = https://gitlab.freedesktop.org/xorg/app/xgc.git
+[submodule "xorg/app/xhost"]
+	path = xorg/app/xhost
+	url = https://gitlab.freedesktop.org/xorg/app/xhost.git
+[submodule "xorg/app/xinit"]
+	path = xorg/app/xinit
+	url = https://gitlab.freedesktop.org/xorg/app/xinit.git
+[submodule "xorg/app/xinput"]
+	path = xorg/app/xinput
+	url = https://gitlab.freedesktop.org/xorg/app/xinput.git
+[submodule "xorg/app/xisxwayland"]
+	path = xorg/app/xisxwayland
+	url = https://gitlab.freedesktop.org/xorg/app/xisxwayland.git
+[submodule "xorg/app/xkbcomp"]
+	path = xorg/app/xkbcomp
+	url = https://gitlab.freedesktop.org/xorg/app/xkbcomp.git
+[submodule "xorg/app/xkbevd"]
+	path = xorg/app/xkbevd
+	url = https://gitlab.freedesktop.org/xorg/app/xkbevd.git
+[submodule "xorg/app/xkbprint"]
+	path = xorg/app/xkbprint
+	url = https://gitlab.freedesktop.org/xorg/app/xkbprint.git
+[submodule "xorg/app/xkbutils"]
+	path = xorg/app/xkbutils
+	url = https://gitlab.freedesktop.org/xorg/app/xkbutils.git
+[submodule "xorg/app/xkill"]
+	path = xorg/app/xkill
+	url = https://gitlab.freedesktop.org/xorg/app/xkill.git
+[submodule "xorg/app/xload"]
+	path = xorg/app/xload
+	url = https://gitlab.freedesktop.org/xorg/app/xload.git
+[submodule "xorg/app/xlogo"]
+	path = xorg/app/xlogo
+	url = https://gitlab.freedesktop.org/xorg/app/xlogo.git
+[submodule "xorg/app/xlsatoms"]
+	path = xorg/app/xlsatoms
+	url = https://gitlab.freedesktop.org/xorg/app/xlsatoms.git
+[submodule "xorg/app/xlsclients"]
+	path = xorg/app/xlsclients
+	url = https://gitlab.freedesktop.org/xorg/app/xlsclients.git
+[submodule "xorg/app/xlsfonts"]
+	path = xorg/app/xlsfonts
+	url = https://gitlab.freedesktop.org/xorg/app/xlsfonts.git
+[submodule "xorg/app/xmag"]
+	path = xorg/app/xmag
+	url = https://gitlab.freedesktop.org/xorg/app/xmag.git
+[submodule "xorg/app/xman"]
+	path = xorg/app/xman
+	url = https://gitlab.freedesktop.org/xorg/app/xman.git
+[submodule "xorg/app/xmessage"]
+	path = xorg/app/xmessage
+	url = https://gitlab.freedesktop.org/xorg/app/xmessage.git
+[submodule "xorg/app/xmh"]
+	path = xorg/app/xmh
+	url = https://gitlab.freedesktop.org/xorg/app/xmh.git
+[submodule "xorg/app/xmodmap"]
+	path = xorg/app/xmodmap
+	url = https://gitlab.freedesktop.org/xorg/app/xmodmap.git
+[submodule "xorg/app/xmore"]
+	path = xorg/app/xmore
+	url = https://gitlab.freedesktop.org/xorg/app/xmore.git
+[submodule "xorg/app/xpr"]
+	path = xorg/app/xpr
+	url = https://gitlab.freedesktop.org/xorg/app/xpr.git
+[submodule "xorg/app/xprop"]
+	path = xorg/app/xprop
+	url = https://gitlab.freedesktop.org/xorg/app/xprop.git
+[submodule "xorg/app/xrandr"]
+	path = xorg/app/xrandr
+	url = https://gitlab.freedesktop.org/xorg/app/xrandr.git
+[submodule "xorg/app/xrdb"]
+	path = xorg/app/xrdb
+	url = https://gitlab.freedesktop.org/xorg/app/xrdb.git
+[submodule "xorg/app/xrefresh"]
+	path = xorg/app/xrefresh
+	url = https://gitlab.freedesktop.org/xorg/app/xrefresh.git
+[submodule "xorg/app/xrestop"]
+	path = xorg/app/xrestop
+	url = https://gitlab.freedesktop.org/xorg/app/xrestop.git
+[submodule "xorg/app/xscope"]
+	path = xorg/app/xscope
+	url = https://gitlab.freedesktop.org/xorg/app/xscope.git
+[submodule "xorg/app/xset"]
+	path = xorg/app/xset
+	url = https://gitlab.freedesktop.org/xorg/app/xset.git
+[submodule "xorg/app/xsetroot"]
+	path = xorg/app/xsetroot
+	url = https://gitlab.freedesktop.org/xorg/app/xsetroot.git
+[submodule "xorg/app/xsm"]
+	path = xorg/app/xsm
+	url = https://gitlab.freedesktop.org/xorg/app/xsm.git
+[submodule "xorg/app/xstdcmap"]
+	path = xorg/app/xstdcmap
+	url = https://gitlab.freedesktop.org/xorg/app/xstdcmap.git
+[submodule "xorg/app/xvidtune"]
+	path = xorg/app/xvidtune
+	url = https://gitlab.freedesktop.org/xorg/app/xvidtune.git
+[submodule "xorg/app/xvinfo"]
+	path = xorg/app/xvinfo
+	url = https://gitlab.freedesktop.org/xorg/app/xvinfo.git
+[submodule "xorg/app/xwd"]
+	path = xorg/app/xwd
+	url = https://gitlab.freedesktop.org/xorg/app/xwd.git
+[submodule "xorg/app/xwininfo"]
+	path = xorg/app/xwininfo
+	url = https://gitlab.freedesktop.org/xorg/app/xwininfo.git
+[submodule "xorg/app/xwud"]
+	path = xorg/app/xwud
+	url = https://gitlab.freedesktop.org/xorg/app/xwud.git
